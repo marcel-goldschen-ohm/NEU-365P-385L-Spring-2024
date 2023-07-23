@@ -18,6 +18,7 @@ Programming and Data Analysis for Modern Neuroscience
 3. [hvplot](https://hvplot.holoviz.org)
 4. [napari](https://napari.org/stable/#)
 5. [vispy](https://vispy.org)
+6. [HoloViz Panel](https://panel.holoviz.org)
 
 [misleading graphs](https://en.wikipedia.org/wiki/Misleading_graph)
 
@@ -27,3 +28,4 @@ Programming and Data Analysis for Modern Neuroscience
 
 # User Interface App
 1. [PySide/PyQt](https://wiki.qt.io/Qt_for_Python)
+2. [HoloViz Panel](https://panel.holoviz.org)
