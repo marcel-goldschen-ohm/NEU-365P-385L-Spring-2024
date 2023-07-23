@@ -25,3 +25,6 @@ Programming and Data Analysis for Modern Neuroscience
 # Statistics
 
 [misuse of statistics](https://en.wikipedia.org/wiki/Misuse_of_statistics)
+
+# UI
+1. [PySide/PyQt](https://wiki.qt.io/Qt_for_Python)
