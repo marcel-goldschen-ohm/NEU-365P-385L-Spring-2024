@@ -2,8 +2,8 @@
 Programming and Data Analysis for Modern Neuroscience
 
 # Data
-1. python [list](https://docs.python.org/3/tutorial/introduction.html#lists)
-2. python [dict](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
+1. [list](https://docs.python.org/3/tutorial/introduction.html#lists)
+2. [dict](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 3. [numpy](https://numpy.org)
 4. [pandas](https://pandas.pydata.org)
 5. [xarray](https://xarray.dev)
