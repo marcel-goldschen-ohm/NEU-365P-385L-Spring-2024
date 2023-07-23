@@ -18,7 +18,6 @@ Programming and Data Analysis for Modern Neuroscience
 3. [hvplot](https://hvplot.holoviz.org)
 4. [napari](https://napari.org/stable/#)
 5. [vispy](https://vispy.org)
-6. [PySide/PyQt](https://wiki.qt.io/Qt_for_Python)
 
 [misleading graphs](https://en.wikipedia.org/wiki/Misleading_graph)
 
@@ -26,5 +25,5 @@ Programming and Data Analysis for Modern Neuroscience
 
 [misuse of statistics](https://en.wikipedia.org/wiki/Misuse_of_statistics)
 
-# UI
+# User Interface App
 1. [PySide/PyQt](https://wiki.qt.io/Qt_for_Python)
