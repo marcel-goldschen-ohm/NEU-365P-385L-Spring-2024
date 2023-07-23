@@ -17,8 +17,7 @@ Programming and Data Analysis for Modern Neuroscience
 2. [seaborn](https://seaborn.pydata.org)
 3. [hvplot](https://hvplot.holoviz.org)
 4. [napari](https://napari.org/stable/#)
-5. [vispy](https://vispy.org)
-6. [HoloViz Panel](https://panel.holoviz.org)
+5. [HoloViz Panel](https://panel.holoviz.org)
 
 [misleading graphs](https://en.wikipedia.org/wiki/Misleading_graph)
 
