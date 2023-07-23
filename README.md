@@ -16,3 +16,12 @@ Programming and Data Analysis for Modern Neuroscience
 1. [matplotlib](https://matplotlib.org)
 2. [seaborn](https://seaborn.pydata.org)
 3. [hvplot](https://hvplot.holoviz.org)
+4. [napari](https://napari.org/stable/#)
+5. [vispy](https://vispy.org)
+6. [PySide/PyQt](https://wiki.qt.io/Qt_for_Python)
+
+[misleading graphs](https://en.wikipedia.org/wiki/Misleading_graph)
+
+# Statistics
+
+[misuse of statistics](https://en.wikipedia.org/wiki/Misuse_of_statistics)
