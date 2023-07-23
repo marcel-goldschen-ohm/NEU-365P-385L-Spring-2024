@@ -21,7 +21,7 @@ Programming and Data Analysis for Modern Neuroscience
 
 [misleading graphs](https://en.wikipedia.org/wiki/Misleading_graph)
 
-# Statistics
+# Statistical Inference
 
 [misuse of statistics](https://en.wikipedia.org/wiki/Misuse_of_statistics)
 
