@@ -1,6 +1,34 @@
 # NEU-365P-385L-Spring-2024
 Programming and Data Analysis for Modern Neuroscience
 
+# Python Basics
+
+1. Variables and the importance of choosing good names for them.
+2. Basic data types: `int`, `float`, `bool`, `str` and `type` function
+3. Comments and multi-line strings: `#`, `"""`
+4. Basic operations: `+`, `-`, `*`, `/`, `**`
+5. Logical comparisons: `==`, `!=`, `<`, `>`, `<=`, `>=`, `and`, `or`, `not`
+6. `if`, `elif`, `else` blocks
+7. Nested blocks
+8. `list` and `tuple`
+9. `sorted` and `reversed` functions
+10. List unpacking: `*`
+11. `zip`
+12. List indexing and slicing: `[start]`, `[start:stop]`, `[start:stop:step]` <-- *stupid 0-based indexing*
+13. Dictionary (key, value) pairs: `dict`
+14. Dictionary indexing: `[key] = value`
+15. `for` and `while` loop blocks
+16. `range` and `len` functions
+17. `def` function blocks
+18. Default and named function arguments
+19. Assignment vs. Mutation
+20. `class` block
+21. Module file
+22. Package file hierarchy
+23. `import` modules
+24. Function `args` and `kwargs`
+25. Generators: `yield`
+
 # Data Toolkit
 Familiarizing yourself with the tools listed below (I highly recommend going in the order presented) will prepare you to work with almost any data at any level in the Python environment. The most essential learning goals are listed along with each tool.
 
