@@ -2,12 +2,21 @@
 Programming and Data Analysis for Modern Neuroscience
 
 # Python Environment
+- Python Files
+  - Text file: `*.py`
+  - [Jupyter notebook](https://jupyter.org) file: `*.ipynb`
+- A few recommended Integrated Development Environments (IDEs)
+  - [Jupyter Lab](https://jupyter.org)
+  - [Visual Studio Code (VSCode)](https://code.visualstudio.com)
+  - [PyCharm](https://www.jetbrains.com/pycharm/)
+  - [Spyder](https://www.spyder-ide.org)
+  - [Google Colab](https://colab.research.google.com)
 - Package managers
-  - `conda` (e.g., miniconda)
-  - `pip`
-- Development Environment
-  - Jupyter Lab
-  - Visual Studio Code (VSCode)
+  - `conda` (e.g., [miniconda](https://docs.conda.io/en/main/miniconda.html)) <-- Also manages Python!
+  - `pip`: [Python Package Index (PyPI)](https://pypi.org)
+- Python Virtual Environments
+  - conda environments
+  - [venv](https://python.land/virtual-environments/virtualenv)
 
 # Python Basics
 Familiarizing yourself with the concepts listed below is in my opinion sufficient for a very reasonable level of mastery in Python.
@@ -42,6 +51,7 @@ Other more advanced topics:
 - Function `args` and `kwargs`
 - Generators: `yield`
 - Package file hierarchy
+- [poetry](https://python-poetry.org)
 
 # Data Toolkit
 Familiarizing yourself with the tools listed below (I highly recommend going in the order presented) will prepare you to work with almost any data at any level in the Python environment. The most essential learning goals are listed along with each tool.
