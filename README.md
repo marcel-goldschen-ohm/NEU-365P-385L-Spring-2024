@@ -1,7 +1,16 @@
 # NEU-365P-385L-Spring-2024
 Programming and Data Analysis for Modern Neuroscience
 
+# Python Environment
+- Package managers
+  - `conda` (e.g., miniconda)
+  - `pip`
+- Development Environment
+  - Jupyter Lab
+  - Visual Studio Code (VSCode)
+
 # Python Basics
+Familiarizing yourself with the concepts listed below is in my opinion sufficient for a very reasonable level of mastery in Python.
 
 1. Variables and the importance of choosing good names for them.
 2. Basic data types: `int`, `float`, `bool`, `str` and `type` function
@@ -13,21 +22,26 @@ Programming and Data Analysis for Modern Neuroscience
 8. `list` and `tuple`
 9. `sorted` and `reversed` functions
 10. List unpacking: `*`
-11. `zip`
-12. List indexing and slicing: `[start]`, `[start:stop]`, `[start:stop:step]` <-- *stupid 0-based indexing*
-13. Dictionary (key, value) pairs: `dict`
-14. Dictionary indexing: `[key] = value`
-15. `for` and `while` loop blocks
-16. `range` and `len` functions
-17. `def` function blocks
-18. Default and named function arguments
-19. Assignment vs. Mutation
-20. `class` block
-21. Module file
-22. `import` modules
-23. Package file hierarchy
-24. Function `args` and `kwargs`
-25. Generators: `yield`
+11. List zipping: `zip`
+12. List comprehensions
+13. List indexing and slicing: `[start]`, `[start:stop]`, `[start:stop:step]` <-- *stupid 0-based indexing*
+14. Dictionary (key, value) pairs: `dict`
+15. Dictionary indexing: `[key] = value`
+16. `for` and `while` loop blocks
+17. `range` and `len` functions
+18. `def` function blocks
+19. Default and named function arguments
+20. Assignment vs. Mutation
+21. Variable scope
+22. `class` blocks
+23. Module files: `import`
+
+Other more advanced topics:
+
+- Functional Programming vs. Object Oriented Programming (OOP)
+- Function `args` and `kwargs`
+- Generators: `yield`
+- Package file hierarchy
 
 # Data Toolkit
 Familiarizing yourself with the tools listed below (I highly recommend going in the order presented) will prepare you to work with almost any data at any level in the Python environment. The most essential learning goals are listed along with each tool.
@@ -40,36 +54,41 @@ Familiarizing yourself with the tools listed below (I highly recommend going in 
 6. [zarr](https://zarr.dev): You will be able to store data in a self-describing hierarchical format with chunked arrays either locally or in the cloud.
 7. [dask](https://www.dask.org): You will be able to perform computations on datasets too large to fit into your local computer memory.
 
-Some more resources that may be of interest:
+Other resources of interest:
 
-- 🔗 [pydata](https://pydata.org): Community leveraging python to work with many types of data.
-- 🔗 [parquet](https://parquet.apache.org): A modern and vastly superior format for storing large tabular datasets as compared to comma separated values (.csv).
+- [pydata](https://pydata.org): Community leveraging python to work with many types of data.
+- [parquet](https://parquet.apache.org): A modern and vastly superior format for storing large tabular datasets as compared to comma separated values (.csv).
 
 # Data Visualization
 1. [matplotlib](https://matplotlib.org)
 2. [seaborn](https://seaborn.pydata.org)
 3. [hvplot](https://hvplot.holoviz.org)
 4. [napari](https://napari.org/stable/#)
-5. [panel](https://panel.holoviz.org)
-6. [PySide/PyQt](https://wiki.qt.io/Qt_for_Python)
 
-[misleading graphs](https://en.wikipedia.org/wiki/Misleading_graph)
+Other resources of interest:
+
+- :bangbang: [Misleading graphs](https://en.wikipedia.org/wiki/Misleading_graph)
+- [panel](https://panel.holoviz.org)
+- [PySide/PyQt](https://wiki.qt.io/Qt_for_Python)
 
 # Statistical Inference
 1. [random variables]()
 2. [probability]()
-3. [Bayes Theorem]()
-4. [probability distributions]()
-5. [maximum likelihood]()
-6. [sampling distribution]()
-7. [Central Limit Theorem]()
-8. [hypothesis testing]()
-9. [pitfalls of p-values]()
-10. [permutation test]()
-11. [confidence interval]()
-12. [bootstrap]()
+3. [joint and conditional probability]()
+4. [Bayes Theorem]()
+5. [probability distributions]()
+6. [maximum likelihood]()
+7. [sampling distribution]()
+8. [Central Limit Theorem]()
+9. [hypothesis testing]()
+10. [pitfalls of p-values]()
+11. [permutation test]()
+12. [confidence interval]()
+13. [bootstrap]()
 
-[misuse of statistics](https://en.wikipedia.org/wiki/Misuse_of_statistics)
+Other resources of interest:
+
+- :bangbang: [Misuse of statistics](https://en.wikipedia.org/wiki/Misuse_of_statistics)
 
 # Linear Models
 
