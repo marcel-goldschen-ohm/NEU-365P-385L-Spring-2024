@@ -24,8 +24,8 @@ Programming and Data Analysis for Modern Neuroscience
 19. Assignment vs. Mutation
 20. `class` block
 21. Module file
-22. Package file hierarchy
-23. `import` modules
+22. `import` modules
+23. Package file hierarchy
 24. Function `args` and `kwargs`
 25. Generators: `yield`
 
