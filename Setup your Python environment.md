@@ -84,4 +84,4 @@ There are a variety of user interfaces for Python coding from the most basic tex
 *It does NOT matter which user interface you use.* Both JupyterLab and VSCode will give you a pretty similar experience, as will several other IDEs such as [PyCharm](https://www.jetbrains.com/pycharm/) or [Spyder](https://www.spyder-ide.org).
 
 # Python in the cloud
-[Google Colab](https://colab.research.google.com) is a purely cloud-based option that is worth taking a look at. However, for this course I recommend setting up a local Python environment on your computer by following steps 1-4(5) above.
+[Google Colab](https://colab.research.google.com) is a purely cloud-based option that is worth taking a look at. However, for this course I want you to setup a local Python environment on your computer by following steps 1-4(5) above. This way you will be able to familiarize yourself with managing your own packages and virtual environments, both of which are important skills for working in a general Python environment.
