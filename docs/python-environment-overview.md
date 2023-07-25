@@ -1,0 +1,16 @@
+# Python environment overview
+- Python Files
+  - Text file: `*.py`
+  - [Jupyter notebook](https://jupyter.org) file: `*.ipynb`
+- A few recommended Integrated Development Environments (IDEs)
+  - [Jupyter Lab](https://jupyter.org)
+  - [Visual Studio Code (VSCode)](https://code.visualstudio.com)
+  - [PyCharm](https://www.jetbrains.com/pycharm/)
+  - [Spyder](https://www.spyder-ide.org)
+  - [Google Colab](https://colab.research.google.com)
+- Package managers
+  - `conda` (e.g., [miniconda](https://docs.conda.io/en/main/miniconda.html)) <-- Also manages Python itself!
+  - `pip`: [Python Package Index (PyPI)](https://pypi.org)
+- Virtual Environments
+  - conda environments (e.g., neu365p in the setup instructions above)
+  - [venv](https://python.land/virtual-environments/virtualenv)
