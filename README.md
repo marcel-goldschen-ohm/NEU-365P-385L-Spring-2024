@@ -2,7 +2,7 @@
 Programming and Data Analysis for Modern Neuroscience
 
 # Table of Contents
-- [Setup your Python environment](/Setup-your-Python-environment.md)
+- [Setup your Python environment](setup-your-python-environment.md)
 - [Keep up-to-date with the course GitHub repository](#keep-up-to-date-with-the-course-github-repository)
 - [Python environment overview](#python-environment-overview)
 - [Python Basics](#python-basics)
