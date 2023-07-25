@@ -75,7 +75,7 @@ This will start **JupyterLab which will open up a tab in your browser with a com
 When you are done using JupyterLab, from within the JupyterLab browser interface select `File->Shutdown`.
 
 # 5. `OPTIONAL:` Install Visual Studio Code (VSCode)
-There are a variety of user interfaces for Python coding from the most basic text editor and cmd shell to more complex integrated development environments with more features such as JupyterLab. One alternative to JupyterLab that is compatible with Jupyter notebooks is VSCode.
+There are a variety of user interfaces for Python coding from the most basic text editor and cmd shell to more complex integrated development environments (IDEs) with more features such as JupyterLab. One alternative to JupyterLab that is compatible with Jupyter notebooks is VSCode.
 1. Download [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
 2. Open VSCode and install the **Python** and **Jupyter** extensions.
 3. In VSCode, Select `View->Command Palette...` and search for and select `Python: Select Interpreter`, then select the Python version associated with your neu365p environment (e.g., `Python 3.11.0 ('neu365p')`).
