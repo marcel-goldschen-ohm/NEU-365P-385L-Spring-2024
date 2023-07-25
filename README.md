@@ -19,7 +19,7 @@ Programming and Data Analysis for Modern Neuroscience
 # Dealing with uncertainty
 - [Statistical inference](docs/statistical-inference.md)
 
-# Time series
+# Sequences
 - [Time series]()
 
 # Modeling data
