@@ -5,11 +5,11 @@ Programming and Data Analysis for Modern Neuroscience
 You are free to setup your python environment however you like. The following is my recommended approach and what I will assume you have done for the purposes of this course.
 
 # Table of Contents
-- [1. Install Conda](#1.-install-conda)
-- [2. Configure Conda](#2.-configure-conda)
-- [3. Create a sandboxed Python environment for this course](#3.-create-a-sandboxed-python-environment-for-this-course)
-- [4. Run JupyterLab](#4.-run-jupyterlab)
-- [5. `OPTIONAL:` Install Visual Studio Code (VSCode)](#5.-`optional:`-install-visual-studio-code-(vscode))
+- [1. Install Conda](#1-install-conda)
+- [2. Configure Conda](#2-configure-conda)
+- [3. Create a sandboxed Python environment for this course](#3-create-a-sandboxed-python-environment-for-this-course)
+- [4. Run JupyterLab](#4-run-jupyterlab)
+- [5. `OPTIONAL:` Install Visual Studio Code (VSCode)](#5-optional-install-visual-studio-code-vscode)
 
 # 1. Install Conda
 Download and install the latest version of [Miniconda3](https://docs.conda.io/en/latest/miniconda.html).
