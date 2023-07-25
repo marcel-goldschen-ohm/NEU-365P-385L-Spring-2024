@@ -1,6 +1,3 @@
-# NEU-365P-385L-Spring-2024
-Programming and Data Analysis for Modern Neuroscience
-
 # Setup your Python environment
 You are free to setup your python environment however you like. The following is my recommended approach and what I will assume you have done for the purposes of this course.
 
