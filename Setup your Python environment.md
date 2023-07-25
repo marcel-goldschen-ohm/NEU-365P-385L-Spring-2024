@@ -6,6 +6,7 @@ You are free to setup your python environment however you like. The following is
 3. [Create a sandboxed Python environment for this course](#3-create-a-sandboxed-python-environment-for-this-course)
 4. [Run JupyterLab](#4-run-jupyterlab)
 5. [`OPTIONAL:` Install Visual Studio Code (VSCode)](#5-optional-install-visual-studio-code-vscode)
+- [Python in the cloud](#python-in-the-cloud)
 
 # 1. Install Conda
 Download and install the latest version of [Miniconda3](https://docs.conda.io/en/latest/miniconda.html).
@@ -80,4 +81,7 @@ There are a variety of user interfaces for Python coding from the most basic tex
 3. In VSCode, Select `View->Command Palette...` and search for and select `Python: Select Interpreter`, then select the Python version associated with your neu365p environment (e.g., `Python 3.11.0 ('neu365p')`).
 4. In VSCode you can also set the Python interpreter for each individual file. When you open a Python file the interpreter will be displayed in one of the corners. Make sure it is set to the Python version associated with neu365p, otherwise click the displayed interpreter and select from the dropdown the one for neu365p.
 
-*It does NOT matter which user interface you use.* Both JupyterLab and VSCode will give you a pretty similar experience, as will several others.
+*It does NOT matter which user interface you use.* Both JupyterLab and VSCode will give you a pretty similar experience, as will several other IDEs such as [PyCharm](https://www.jetbrains.com/pycharm/) or [Spyder](https://www.spyder-ide.org).
+
+# Python in the cloud
+[Google Colab](https://colab.research.google.com) is a purely cloud-based option that is worth taking a look at. However, for this course I recommend setting up a local Python environement on your computer by following steps 1-4/5 above.
