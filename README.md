@@ -2,13 +2,13 @@
 Programming and Data Analysis for Modern Neuroscience
 
 # Table of Contents
-[Setup your Python environment](#setup-your-python-environment)
-[Keep up-to-date with the course GitHub repository](#keep-up-to-date-with-the-course-github-repository)
-[Python environment overview](#python-environment-overview)
-[Python Basics](#python-basics)
-[Data Toolkit](#data-toolkit)
-[Data Visualization](#data-visualization)
-[Statistical Inference](#statistical-inference)
+- [Setup your Python environment](#setup-your-python-environment)
+- [Keep up-to-date with the course GitHub repository](#keep-up-to-date-with-the-course-github-repository)
+- [Python environment overview](#python-environment-overview)
+- [Python Basics](#python-basics)
+- [Data Toolkit](#data-toolkit)
+- [Data Visualization](#data-visualization)
+- [Statistical Inference](#statistical-inference)
 
 # Setup your Python environment
 You are free to setup your python environment however you like. The following is my recommended approach and what I will assume you have done for the purposes of this course.
