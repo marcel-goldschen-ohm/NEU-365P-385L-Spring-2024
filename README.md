@@ -29,7 +29,7 @@ Programming and Data Analysis for Modern Neuroscience
 - [Dimensionality Reduction]()
 - [Simulation]()
 
-# Choosing a model
+# Evaluating and choosing a model
 - [Cross validation]()
 
 # Neural models
