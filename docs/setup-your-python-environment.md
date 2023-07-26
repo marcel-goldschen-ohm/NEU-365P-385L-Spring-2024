@@ -33,11 +33,11 @@ Next, set "neu365p" as the active environment for all conda commands. Run:
 ```
 conda activate neu365p
 ```
-Now install the latest version of the `python` package (from the defaults channel) into the active ("neu365p") environment.
+Now install the latest version of the `python` package (from the defaults channel) into the active (neu365p) environment.
 ```
 conda install python
 ```
-Finally, install the latest version of the `jupyterlab` package (from the conda-forge channel) into the active ("neu365p") environment.
+Finally, install the latest version of the `jupyterlab` package (from the conda-forge channel) into the active (neu365p) environment. This will give you everything you need to work with [Jupyter notebooks](https://jupyter.org) which we will use in this course.
 ```
 conda install jupyterlab -c conda-forge
 ```
@@ -57,12 +57,16 @@ You can see a list of all installed packages in your active environment with:
 ```
 conda list
 ```
+If you ever want to delete this environment and start over:
+```
+conda remove --name neu365p --all
+```
 For just about everything else you can do with conda there is a plethora of available online information.
 
 # 4. Run JupyterLab
 [JupyterLab](https://jupyter.org) is a complete Python integrated development environment (IDE) that supports Jupyter notebooks (which we will use in this course). It runs in a tab in your browser. You should already have installed JupyterLab in the previous step.
 
-To run JupyterLab first make sure your "neu365p" environment is active:
+To run JupyterLab first make sure your neu365p environment is active:
 ```
 conda activate neu365p
 ```
@@ -84,4 +88,4 @@ There are a variety of user interfaces for Python coding from the most basic tex
 *It does NOT matter which user interface you use.* Both JupyterLab and VSCode will give you a pretty similar experience, as will several other IDEs such as [PyCharm](https://www.jetbrains.com/pycharm/) or [Spyder](https://www.spyder-ide.org).
 
 # Python in the cloud
-[Google Colab](https://colab.research.google.com) is a purely cloud-based option that is worth taking a look at. However, for this course I want you to setup a local Python environment on your computer by following steps 1-4(5) above. This way you will be able to familiarize yourself with managing your own packages and virtual environments, both of which are important skills for working in a general Python environment.
+[Google Colab](https://colab.research.google.com) is a purely cloud-based option that is worth taking a look at. However, for this course I want you to setup a local Python environment on your computer by following steps 1-4(5) above. This way you will be able to familiarize yourself with managing your own packages and virtual environments, both of which are important skills for working in a general Python ecosystem.
