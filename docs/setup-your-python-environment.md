@@ -29,7 +29,7 @@ First, create a new conda environemnt named "neu365p". In a command shell or ter
 ```
 conda create --name neu365p
 ```
-Next, set "neu365p" as the active environment for all conda commands. Run:
+Next, set neu365p as the active environment for all conda commands. Run:
 ```
 conda activate neu365p
 ```
