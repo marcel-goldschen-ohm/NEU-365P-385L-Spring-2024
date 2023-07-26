@@ -2,13 +2,17 @@
 Programming and Data Analysis for Modern Neuroscience
 
 # Course info
-- [Course info]()
+- [Course info](docs/course-info.md)
+- [Discussion board](docs/discussion-board.md)
+- [Homework]()
+- [Syllabus]()
 
 # Setup
 - [Setup your Python environment](docs/setup-your-python-environment.md)
 - [Keep up-to-date with the course GitHub repository](docs/keep-up-to-date-with-this-repo.md)
 
 # Python
+- [Programming rules of thumb](docs/programming-rules-of-thumb.md)
 - [Python environment overview](docs/python-environment-overview.md)
 - [Python basics](docs/python-basics.md)
 
