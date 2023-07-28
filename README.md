@@ -25,18 +25,21 @@ Programming and Data Analysis for Modern Neuroscience
 
 # Sequences
 - [Time series]()
+- [Hidden Markov models]()
+- [Reccurent neural networks]()
 
 # Modeling data
-- [Regression]()
-- [Classification]()
-- [Clustering]()
-- [Dimensionality Reduction]()
-- [Simulation]()
-
-# Evaluating and choosing a model
-- [Cross validation]()
-
-# Neural models
+- [Model objectives]()
+  - [Regression]()
+  - [Classification]()
+  - [Clustering]()
+  - [Dimensionality Reduction]()
+  - [Simulation]()
+- [Evaluating and choosing between models]()
+  - [Cross validation]()
+  - [Bayesian Information Criterion]()
 - [Linear models]()
+- [Nonlinear models]()
+- [Generalized linear models]()
 - [Neural networks]()
 - [Models of neurons]()
