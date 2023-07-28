@@ -2,7 +2,6 @@
 # Programming and Data Analysis for Modern Neuroscience
 NEU 365P/385L - Spring 2023
 
-# Table of Contents
 - [Course Objective](#course-objective)
     - [Breadth over Depth](#breadth-over-depth)
     - [Concept before Math](#concept-before-math)
@@ -69,7 +68,7 @@ Office hours will be both in person and over Zoom, so you can attend as you see 
 You are expected to attend all classes. **In-class quizzes cannot be made up.** If you have to miss a class, you must inform me as far ahead of time as is possible.
 
 ## Grading
-Your grade is determined by your cumulative points total from **attendance**, **homework**, and in-class **quizes**.
+Your grade is determined by your cumulative points total from **attendance**, **homework**, **quizes**, **exams**, **extra credit**, or anything else that is worth points in the course. For example, if you scored 70/100 on an exam and 90/100 combined on homework and acrued 10 pts of extra credit, then your grade percentage would be (70+90+10)/(100+100) = 85%.
 ```
 A: 90-100%
 B: 80-89%
