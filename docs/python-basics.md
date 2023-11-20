@@ -20,7 +20,7 @@ Familiarizing yourself with the concepts listed below is in my opinion sufficien
 17. `range` and `len` functions
 18. `def` function blocks
 19. Default and named function arguments
-20. Assignment vs. Mutation
+20. Assignment vs. mutation
 21. Variable scope
 22. `class` blocks
 23. Module files: `import`
