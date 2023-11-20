@@ -19,15 +19,17 @@ Familiarizing yourself with the concepts listed below is in my opinion sufficien
 16. `for` and `while` loop blocks
 17. `range` and `len` functions
 18. `def` function blocks
-19. Default and named function arguments
-20. Assignment vs. mutation
+19. Function arguments
+20. Default and named function arguments
 21. Variable scope
-22. `class` blocks
-23. Module files: `import`
+22. Assignment vs. mutation
+23. Modules: `import`
+24. `class` blocks
+25. Class template vs. instance
+26. Class `__init__` method and `self` variable
+27. Class methods and data
 
 Other more advanced topics:
-
-- Procedural Programming vs. Functional Programming vs. Object Oriented Programming (OOP)
 - Function `args` and `kwargs`
 - Generators: `yield`
 - Package file hierarchy
