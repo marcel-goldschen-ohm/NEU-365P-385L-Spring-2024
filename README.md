@@ -17,11 +17,26 @@ Programming and Data Analysis for Modern Neuroscience
 - [Python basics](docs/python-basics.md)
 
 # Working with data
-  - [Python data toolkit](docs/python-data-toolkit.md)
-  - [Data visualization](docs/data-visualization.md)
+- [Python data toolkit](docs/python-data-toolkit.md)
+- [Data visualization](docs/data-visualization.md)
 
-# 🚧 Dealing with uncertainty
-- [Statistical inference](docs/statistical-inference.md)
+# 🚧 Dealing with uncertainty (statistical inference)
+- Probability distributions of random variables
+  - Normal
+  - Exponential
+  - Poisson
+  - Binomial
+- Joint and conditional probability
+- Maximum likelihood
+- Bayes Theorem
+- Sampling distribution
+- Central limit theorem
+- Confidence interval
+- Bootstrap
+- Hypothesis testing
+  - Permutation test
+  - :bangbang: Pitfalls of p-values
+- :bangbang: [Misuse of statistics](https://en.wikipedia.org/wiki/Misuse_of_statistics)
 
 # 🚧 Sequences
 - Time series
@@ -56,3 +71,7 @@ Programming and Data Analysis for Modern Neuroscience
   - Leaky integrate and fire (LIF) neuron
   - LIF neuron with synaptic input
   - Hodgkin and Huxley (HH) neuron
+
+# 🚧 Optimization
+- Gradient descent
+- Global vs local optimization
