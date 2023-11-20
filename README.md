@@ -20,23 +20,8 @@ Programming and Data Analysis for Modern Neuroscience
 - [Python data toolkit](docs/python-data-toolkit.md)
 - [Data visualization](docs/data-visualization.md)
 
-# 🚧 Dealing with uncertainty (statistical inference)
-- Probability distributions of random variables
-  - Normal
-  - Exponential
-  - Poisson
-  - Binomial
-- Joint and conditional probability
-- Maximum likelihood
-- Bayes Theorem
-- Sampling distribution
-- Central limit theorem
-- Confidence interval
-- Bootstrap
-- Hypothesis testing
-  - Permutation test
-  - :bangbang: Pitfalls of p-values
-- :bangbang: [Misuse of statistics](https://en.wikipedia.org/wiki/Misuse_of_statistics)
+# 🚧 Dealing with uncertainty
+- [Statistical inference](docs/statistical-inference.md)
 
 # 🚧 Sequences
 - Time series
