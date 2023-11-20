@@ -24,28 +24,30 @@ Programming and Data Analysis for Modern Neuroscience
 - [Statistical inference](docs/statistical-inference.md)
 
 # Sequences
-- [Time series]()
-- [Convolution]()
+- 🚧 Time series
+- 🚧 Convolution
 
 # Modeling data
-- [Model objectives]()
-  - [Regression]()
-  - [Classification]()
-  - [Clustering]()
-  - [Dimensionality reduction]()
-  - [Encode/Decode]()
-  - [Simulation]()
-- [Evaluating and choosing between models]()
-  - [Cross validation]()
-  - [Bayesian information criterion (BIC)]()
-- [Linear models]()
-- [Nonlinear models]()
-- [Generalized linear models (GLMs)]()
-- [Neural networks (NNs)]()
-- [Modeling sequences]()
-  - [Hidden Markov models (HMMs)]()
-  - [Reccurent neural networks (RNNs)]()
-- [Models of neurons]()
-  - [Leaky integrate and fire (LIF) neuron]()
-  - [LIF neuron with synaptic input]()
-  - [Hodgkin and Huxley (HH) neuron]()
+- 🚧 Model objectives
+  - Regression
+  - Classification
+  - Clustering
+  - Dimensionality reduction
+  - Encode/Decode
+  - Simulation
+- 🚧 Evaluating and choosing between models
+  - Cross validation
+  - Bayesian information criterion (BIC)
+  - Silhouette score
+- 🚧 Types of models
+  - Linear models
+  - Nonlinear models
+  - Generalized linear models (GLMs)
+  - Neural networks (NNs)
+  - Modeling sequences
+    - Hidden Markov models (HMMs)
+    - Reccurent neural networks (RNNs)
+  - Models of neurons
+    - Leaky integrate and fire (LIF) neuron
+    - LIF neuron with synaptic input
+    - Hodgkin and Huxley (HH) neuron
