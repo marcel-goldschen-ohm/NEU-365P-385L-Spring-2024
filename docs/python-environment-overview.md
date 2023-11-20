@@ -9,8 +9,8 @@
   - [Spyder](https://www.spyder-ide.org)
   - [Google Colab](https://colab.research.google.com)
 - Package managers
-  - `conda` (e.g., [miniconda](https://docs.conda.io/en/main/miniconda.html)) <-- Also manages Python itself!
+  - `conda` (e.g., [miniconda](https://docs.conda.io/en/main/miniconda.html)) <-- Also manages `python` and `pip` as packages in conda.
   - `pip`: [Python Package Index (PyPI)](https://pypi.org)
 - Virtual Environments
-  - conda environments (e.g., neu365p in the setup instructions above)
+  - conda environments (e.g., neu365 as in the [setup instructions](/docs/setup-your-python-environment.md))
   - [venv](https://python.land/virtual-environments/virtualenv)
