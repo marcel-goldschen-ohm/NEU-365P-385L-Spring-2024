@@ -20,39 +20,39 @@ Programming and Data Analysis for Modern Neuroscience
   - [Python data toolkit](docs/python-data-toolkit.md)
   - [Data visualization](docs/data-visualization.md)
 
-# Dealing with uncertainty
+# 🚧 Dealing with uncertainty
 - [Statistical inference](docs/statistical-inference.md)
 
-# Sequences
-- 🚧 Time series
-- 🚧 Convolution
+# 🚧 Sequences
+- Time series
+- Convolution
 
-# Modeling data
-- 🚧 Model objectives
+# 🚧 Modeling data
+- Model objectives
   - Regression
   - Classification
   - Clustering
   - Dimensionality reduction
   - Encode/Decode
   - Simulation
-- 🚧 Evaluating and choosing between models
+- Evaluating and choosing between models
   - Cross validation
   - Bayesian information criterion (BIC)
   - Silhouette score
-- 🚧 Linear model
-- 🚧 Nonlinear model
+- Linear model
+- Nonlinear model
   - K-Nearest neighbors (KNN)
-- 🚧 Generalized linear model (GLM)
+- Generalized linear model (GLM)
   - Logistic regression
   - Poisson GLM
-- 🚧 Neural network (NN)
+- Neural network (NN)
   - Convolutional neural network (CNN)
   - Reccurent neural network (RNN)
     - Long/Short term memory (LSTM) neural network
-- 🚧 Modeling sequences
+- Modeling sequences
   - Hidden Markov model (HMM)
   - Reccurent neural network (RNN)
-- 🚧 Models of neurons
+- Models of neurons
   - Leaky integrate and fire (LIF) neuron
   - LIF neuron with synaptic input
   - Hodgkin and Huxley (HH) neuron
