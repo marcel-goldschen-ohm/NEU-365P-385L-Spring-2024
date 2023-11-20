@@ -1,18 +1,23 @@
-# Statistical Inference
-1. random variables
-2. probability
-3. joint and conditional probability
-4. Bayes Theorem
-5. probability distributions
-6. maximum likelihood
-7. sampling distribution
-8. Central Limit Theorem
-9. hypothesis testing
-10. pitfalls of p-values
-11. permutation test
-12. confidence interval
-13. bootstrap
+# 🚧 Statistical Inference
+1. Probability distributions
+    - Continuous
+    - Discrete
+2. Probability distributions of random variables
+    - Normal
+    - Exponential
+    - Poisson
+    - Binomial
+3. Joint and conditional probability
+4. Maximum likelihood
+5. Bayes Theorem
+6. Sampling distribution
+7. Central limit theorem
+8. Confidence interval
+9. Bootstrap
+10. Hypothesis testing
+  - Permutation test
 
 Other resources of interest:
 
+- :bangbang: Pitfalls of p-values
 - :bangbang: [Misuse of statistics](https://en.wikipedia.org/wiki/Misuse_of_statistics)
