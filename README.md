@@ -39,15 +39,20 @@ Programming and Data Analysis for Modern Neuroscience
   - Cross validation
   - Bayesian information criterion (BIC)
   - Silhouette score
-- 🚧 Types of models
-  - Linear models
-  - Nonlinear models
-  - Generalized linear models (GLMs)
-  - Neural networks (NNs)
-  - Modeling sequences
-    - Hidden Markov models (HMMs)
-    - Reccurent neural networks (RNNs)
-  - Models of neurons
-    - Leaky integrate and fire (LIF) neuron
-    - LIF neuron with synaptic input
-    - Hodgkin and Huxley (HH) neuron
+- 🚧 Linear model
+- 🚧 Nonlinear model
+  - K-Nearest neighbors (KNN)
+- 🚧 Generalized linear model (GLM)
+  - Logistic regression
+  - Poisson GLM
+- 🚧 Neural network (NN)
+  - Convolutional neural network (CNN)
+  - Reccurent neural network (RNN)
+    - Long/Short term memory (LSTM) neural network
+- 🚧 Modeling sequences
+  - Hidden Markov model (HMM)
+  - Reccurent neural network (RNN)
+- 🚧 Models of neurons
+  - Leaky integrate and fire (LIF) neuron
+  - LIF neuron with synaptic input
+  - Hodgkin and Huxley (HH) neuron
