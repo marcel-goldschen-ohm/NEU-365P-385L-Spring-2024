@@ -35,6 +35,9 @@ Programming and Data Analysis for Modern Neuroscience
   - Dimensionality reduction
   - Encode/Decode
   - Simulation
+- Optimization
+  - Gradient descent
+  - Global vs local optimization
 - Evaluating and choosing between models
   - Cross validation
   - Bayesian information criterion (BIC)
@@ -56,7 +59,3 @@ Programming and Data Analysis for Modern Neuroscience
   - Leaky integrate and fire (LIF) neuron
   - LIF neuron with synaptic input
   - Hodgkin and Huxley (HH) neuron
-
-# 🚧 Optimization
-- Gradient descent
-- Global vs local optimization
