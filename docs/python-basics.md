@@ -14,7 +14,7 @@ Familiarizing yourself with the concepts listed below is in my opinion sufficien
 11. List zipping: `zip`
 12. List comprehensions
 13. List indexing and slicing: `[start]`, `[start:stop]`, `[start:stop:step]`
-14. Dictionary (key, value) pairs: `dict`
+14. Dictionary {key: value} pairs: `dict`
 15. Dictionary indexing: `[key] = value`
 16. `for` and `while` loop blocks
 17. `range` and `len` functions
