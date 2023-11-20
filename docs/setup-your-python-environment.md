@@ -27,17 +27,17 @@ Note that you can always specify the channel to search when installing packages 
 # 3. Create a sandboxed Python environment for this course
 First, create a new conda environemnt named "neu365p". In a command shell or terminal run:
 ```
-conda create --name neu365p
+conda create --name neu365
 ```
-Next, set neu365p as the active environment for all conda commands. Run:
+Next, set neu365 as the active environment for all conda commands. Run:
 ```
-conda activate neu365p
+conda activate neu365
 ```
-Now install the latest version of the `python` package (from the defaults channel) into the active (neu365p) environment.
+Now install the latest version of the `python` package (from the defaults channel) into the active (neu365) environment.
 ```
 conda install python
 ```
-Finally, install the latest version of the `jupyterlab` package (from the conda-forge channel) into the active (neu365p) environment. This will give you everything you need to work with [Jupyter notebooks](https://jupyter.org) which we will use in this course.
+Finally, install the latest version of the `jupyterlab` package (from the conda-forge channel) into the active (neu365) environment. This will give you everything you need to work with [Jupyter notebooks](https://jupyter.org) which we will use in this course.
 ```
 conda install jupyterlab -c conda-forge
 ```
@@ -45,9 +45,9 @@ conda install jupyterlab -c conda-forge
 
 ⚠️ Note that each time you open a new command shell or terminal, you will need to activate the conda environment that you want to use:
 ```
-conda activate neu365p
+conda activate neu365
 ```
-The currently active environment should be displayed in your command prompt, e.g. `(neu365p)`.
+The currently active environment should be displayed in your command prompt, e.g. `(neu365)`.
 
 You can see a list of all your conda environments with:
 ```
@@ -59,16 +59,16 @@ conda list
 ```
 If you ever want to delete this environment and start over:
 ```
-conda remove --name neu365p --all
+conda remove --name neu365 --all
 ```
 For just about everything else you can do with conda there is a plethora of available online information.
 
 # 4. Run JupyterLab
 [JupyterLab](https://jupyter.org) is a complete Python integrated development environment (IDE) that supports Jupyter notebooks (which we will use in this course). It runs in a tab in your browser. You should already have installed JupyterLab in the previous step.
 
-To run JupyterLab first make sure your neu365p environment is active:
+To run JupyterLab first make sure your neu365 environment is active:
 ```
-conda activate neu365p
+conda activate neu365
 ```
 Then, simply run the command:
 ```
@@ -82,8 +82,8 @@ When you are done using JupyterLab, from within the JupyterLab browser interface
 There are a variety of user interfaces for Python coding from the most basic text editor and cmd shell to more complex integrated development environments (IDEs) with more features such as JupyterLab. One alternative to JupyterLab that is compatible with Jupyter notebooks is VSCode.
 1. Download [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
 2. Open VSCode and install the **Python** and **Jupyter** extensions.
-3. In VSCode, Select `View->Command Palette...` and search for and select `Python: Select Interpreter`, then select the Python version associated with your neu365p environment (e.g., `Python 3.11.0 ('neu365p')`).
-4. In VSCode you can also set the Python interpreter for each individual file. When you open a Python file the interpreter will be displayed in one of the corners. Make sure it is set to the Python version associated with neu365p, otherwise click the displayed interpreter and select from the dropdown the one for neu365p.
+3. In VSCode, Select `View->Command Palette...` and search for and select `Python: Select Interpreter`, then select the Python version associated with your neu365p environment (e.g., `Python 3.11.0 ('neu365')`).
+4. In VSCode you can also set the Python interpreter for each individual file. When you open a Python file the interpreter will be displayed in one of the corners. Make sure it is set to the Python version associated with neu365, otherwise click the displayed interpreter and select from the dropdown the one for neu365.
 
 *It does NOT matter which user interface you use.* Both JupyterLab and VSCode will give you a pretty similar experience, as will several other IDEs such as [PyCharm](https://www.jetbrains.com/pycharm/) or [Spyder](https://www.spyder-ide.org).
 
