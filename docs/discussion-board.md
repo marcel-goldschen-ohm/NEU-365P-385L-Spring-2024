@@ -1,7 +1,7 @@
 # Discussion Board
 See **Canvas** for a link to the discussion board.
 
-RULES:
+## Discussion Board Rules
 - Your identifier MUST BE YOUR NAME if you want to receive extra credit for your participation (see below).
 - Be *respectful and inclusive*.
 - Do NOT be afraid to *ask questions*.
