@@ -31,10 +31,8 @@ NEU 365P/385P - Spring 2024 - Programming and Data Analysis for Modern Neuroscie
 14. Feb 29 R - 
 15. Mar 05 T - 
 16. Mar 07 R - 
-
-Mar 12 T - SPRING BREAK
-Mar 14 R - SPRING BREAK
-
+- Mar 12 T - SPRING BREAK
+- Mar 14 R - SPRING BREAK
 17. Mar 19 T - 
 18. Mar 21 R - 
 19. Mar 26 T - 
