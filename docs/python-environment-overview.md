@@ -26,7 +26,7 @@ You can think of a python environment as a folder that contains a particular ver
 
 Why should you almost always use a separate python environment for each project?
 1. Different projects may require packages that are incompatible with each other.
-2. The more packages you install into a single environment, the more you risk having a package dependency error. It is not a question of *if* this will happen, it is a question of *when*. Thus, you are asking for trouble if you keep installing all of the packages that you need for all of your projects into the same environment. If dependencies in an environment become sufficiently convoluted, you may need to simply delete the environemnt and remake it from scratch. If you have a separate environemnt for each project, this won't affect all your other projects.
+2. The more packages you install into a single environment, the more you risk having a package dependency error. It is not a question of *if* this will happen, it is a question of *when*. Thus, you are asking for trouble if you keep installing all of the packages that you need for all of your projects into the same environment. If dependencies in an environment become sufficiently convoluted, you may need to simply delete the environment and remake it from scratch. If you have a separate environment for each project, this won't affect all your other projects.
 
 Two methods for managing python environments (we'll use conda environments in this course):
 - conda environments (e.g., neu365 as in the [setup instructions](setup-your-python-environment.md))
