@@ -21,22 +21,30 @@ Probability and random variables
 8. Feb 08 R - Bootstrap resampling and confidence intervals
 9. Feb 13 T - Hypothesis testing: p-values and permutation test
 
+Linear models
+---
+10. Feb 15 R - Linear models
+11. Feb 20 T - Generalized linear models (GLMs)
+12. Feb 22 R - 
+
 Sequences
 ---
-10. Feb 15 R - Time series
-11. Feb 20 T - Convolution
+13. Feb 27 T - Time series
+14. Feb 29 R - Convolution
 
-Modeling data
+Simulating a neuron
 ---
-12. Feb 22 R - 
-13. Feb 27 T - 
-14. Feb 29 R - 
-15. Mar 05 T - 
-16. Mar 07 R - 
+15. Mar 05 T - Leaky integrate and fire (LIF) neuron
+16. Mar 07 R - LIF neuron with synaptic input
+
 - Mar 12 T - SPRING BREAK
 - Mar 14 R - SPRING BREAK
+
+?
+---
 17. Mar 19 T - 
 18. Mar 21 R - 
+
 19. Mar 26 T - 
 20. Mar 28 R - 
 21. Apr 02 T - 
