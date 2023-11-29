@@ -53,9 +53,9 @@ Programming and Data Analysis for Modern Neuroscience
   - Random forest
   - Extreme gradient boosting (XGBoost)
 - Support vector machine (SVM)
+- Gaussian mixture model (GMM)
 - K-means clustering
 - Density-based spatial clustering (DBSCAN)
-- Gaussian mixture model (GMM)
 - Principal component analysis (PCA)
 - Neural network (NN)
   - Feedforward neural network (FNN)
