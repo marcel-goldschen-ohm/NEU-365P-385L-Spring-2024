@@ -72,3 +72,7 @@ Neural networks
 26. Apr 18 R - Feedforward neural network (FNN)
 27. Apr 23 T - Recurrent neural network (RNN)
 28. Apr 25 R - Long/Short term memory (LSTM) neural network
+
+- Optimization
+- Maximum likelihood estimation (MLE)
+- Hidden Markov model (HMM)
