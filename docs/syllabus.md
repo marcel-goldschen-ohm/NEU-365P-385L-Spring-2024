@@ -17,17 +17,15 @@ NEU 365P/385P - Spring 2024 - Programming and Data Analysis for Modern Neuroscie
 
 7. Probability distributions
 8. Bootstrap resampling and confidence intervals
-9. p-values
-10. Permutation test
+9. Hypothesis testing: p-values and permutation test
 
 **Sequences**
 
-9. Time series
-10. Convolution
+10. Time series
+11. Convolution
 
-**?**
+**Modeling data**
 
-11. ?
 12. ?
 13. ?
 14. ?
@@ -45,5 +43,3 @@ NEU 365P/385P - Spring 2024 - Programming and Data Analysis for Modern Neuroscie
 26. ?
 27. ?
 28. ?
-
-- Random walk simulation
