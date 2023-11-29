@@ -23,9 +23,9 @@ Probability and random variables
 
 Linear models
 ---
-10. Feb 15 R - Linear models
-11. Feb 20 T - Generalized linear models (GLMs)
-12. Feb 22 R - 
+10. Feb 15 R - Linear regression, confidence envelope
+11. Feb 20 T - Generalized linear model (GLM): Poisson GLM
+12. Feb 22 R - Logistic regression: Bernoulli GLM
 
 Sequences
 ---
@@ -40,18 +40,35 @@ Simulating a neuron
 - Mar 12 T - SPRING BREAK
 - Mar 14 R - SPRING BREAK
 
-?
+Model selection
 ---
-17. Mar 19 T - 
-18. Mar 21 R - 
+17. Mar 19 T - Nonlinear regression: Polynomial and k-nearest neighbors (KNN)
+18. Mar 21 R - Bias/Variance tradeoff and cross validation
 
-19. Mar 26 T - 
-20. Mar 28 R - 
-21. Apr 02 T - 
-22. Apr 04 R - 
-23. Apr 09 T - 
-24. Apr 11 R - 
-25. Apr 16 T - 
-26. Apr 18 R - 
-27. Apr 23 T - 
-28. Apr 25 R - 
+Model tuning
+---
+19. Mar 26 T - Regularization: Ridge and lasso
+
+Classification
+---
+20. Mar 28 R - Confusion matrix, ROC curve, support vector machine (SVM)
+
+Ensemble models
+---
+21. Apr 02 T - Random forest and extreme gradient boosting (XGBoost)
+
+Clustering
+---
+22. Apr 04 R - K-means, gaussian mixture model (GMM), DBSCAN
+
+Dimensionality reduction
+---
+23. Apr 09 T - Principal component analysis (PCA)
+24. Apr 11 R - PCA and RNAseq lab
+
+Neural networks
+---
+25. Apr 16 T - Feedforward neural network (FNN)
+26. Apr 18 R - Feedforward neural network (FNN)
+27. Apr 23 T - Recurrent neural network (RNN)
+28. Apr 25 R - Long/Short term memory (LSTM) neural network
