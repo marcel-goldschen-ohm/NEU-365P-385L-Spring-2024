@@ -49,6 +49,8 @@ Programming and Data Analysis for Modern Neuroscience
 - Generalized linear model (GLM)
   - Logistic regression
   - Poisson GLM
+- Regularization
+  - Ridge, Lasso, and Elastic net
 - Ensemble models
   - Random forest
   - Extreme gradient boosting (XGBoost)
