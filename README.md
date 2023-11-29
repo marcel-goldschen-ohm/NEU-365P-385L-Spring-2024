@@ -48,7 +48,16 @@ Programming and Data Analysis for Modern Neuroscience
 - Generalized linear model (GLM)
   - Logistic regression
   - Poisson GLM
+- Ensemble models
+  - Random forest
+  - Extreme gradient boosting (XGBoost)
+- Support vector machine (SVM)
+- K-means clustering
+- Density-based spatial clustering (DBSCAN)
+- Gaussian mixture model (GMM)
+- Principal component analysis (PCA)
 - Neural network (NN)
+  - Feedforward neural network (FNN)
   - Convolutional neural network (CNN)
   - Reccurent neural network (RNN)
     - Long/Short term memory (LSTM) neural network
@@ -57,5 +66,5 @@ Programming and Data Analysis for Modern Neuroscience
   - Reccurent neural network (RNN)
 - Models of neurons
   - Leaky integrate and fire (LIF) neuron
-  - LIF neuron with synaptic input
+    - LIF neuron with synaptic input
   - Hodgkin and Huxley (HH) neuron
