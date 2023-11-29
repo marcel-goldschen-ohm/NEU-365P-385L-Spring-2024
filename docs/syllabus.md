@@ -22,22 +22,25 @@ Resampling
 ---
 7. Feb 06 T - Bootstrap confidence interval and permutation test
 
+Hypothesis testing
+---
+8. Feb 08 R - p-value
+
 Model optimization
 ---
-8. Feb 08 R - Curve fitting and maximum likelihood estimation (MLE)
+9. Feb 13 T - Curve fitting and maximum likelihood estimation (MLE)
 
 Linear model
 ---
-9. Feb 13 T - Linear regression
+10. Feb 15 R - Linear regression
 
 Generalized linear model (GLM)
 ---
-10. Feb 15 R - Poisson and logistic regression
+11. Feb 20 T - Poisson and logistic regression
 
-Sequence
+Time series (i.e., sequences)
 ---
-11. Feb 20 T - Time series
-12. Feb 22 R - Convolution
+12. Feb 22 R - Time series and convolution
 
 Simulating a neuron
 ---
