@@ -25,6 +25,7 @@ Programming and Data Analysis for Modern Neuroscience
 
 # 🚧 Sequences
 - Time series
+- Image
 - Convolution
 
 # 🚧 Modeling data
