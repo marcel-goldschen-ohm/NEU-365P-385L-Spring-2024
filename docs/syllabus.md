@@ -28,7 +28,7 @@ Model optimization
 
 Linear models
 ---
-9. Feb 13 T - Linear regression, confidence interval
+9. Feb 13 T - Linear regression
 10. Feb 15 R - Generalized linear model (GLM): Poisson and logistic regression
 
 Sequences
