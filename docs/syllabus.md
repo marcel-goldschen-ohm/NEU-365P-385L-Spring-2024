@@ -1,14 +1,21 @@
-# Syllabus
+# 🚧 Syllabus
 NEU 365P/385P - Spring 2024 - Programming and Data Analysis for Modern Neuroscience
+
+**Python intro**
 
 1. Course intro and python environment
 2. Python basics
 3. Lists, loops, and functions
 4. Classes and modules
+
+**Working with data**
+
 5. Numpy and matplotlib
 6. Pandas and hvplot
 
-7. Random walk simulation
+**?**
+
+7. ?
 8. ?
 9. ?
 10. ?
@@ -30,5 +37,6 @@ NEU 365P/385P - Spring 2024 - Programming and Data Analysis for Modern Neuroscie
 26. ?
 27. ?
 28. ?
-29. ?
-30. ?
+
+- Random walk simulation
+- Probability
