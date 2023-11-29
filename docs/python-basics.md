@@ -3,8 +3,8 @@ Familiarizing yourself with the concepts listed below is in my opinion sufficien
 
 1. Variables and the importance of choosing good names for them.
 2. Basic data types: `int`, `float`, `bool`, `str` and `type` function
-3. Comments and multi-line strings: `#`, `"""`
-4. Basic operations: `+`, `-`, `*`, `/`, `**`
+3. Basic operations: `+`, `-`, `*`, `/`, `**`
+4. Comments and multi-line strings: `#`, `"""`
 5. Logical comparisons: `==`, `!=`, `<`, `>`, `<=`, `>=`, `and`, `or`, `not`
 6. `if`, `elif`, `else` blocks
 7. Nested blocks
