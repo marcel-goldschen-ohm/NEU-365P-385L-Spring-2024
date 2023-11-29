@@ -43,6 +43,9 @@ Programming and Data Analysis for Modern Neuroscience
   - Cross validation
   - Bayesian information criterion (BIC)
   - Silhouette score
+- Probability distribution
+  - Normal, Exponential, Poisson, Binomial
+  - Gaussian mixture model (GMM)
 - Linear model
 - Nonlinear model
   - K-Nearest neighbors (KNN)
@@ -55,10 +58,14 @@ Programming and Data Analysis for Modern Neuroscience
   - Random forest
   - Extreme gradient boosting (XGBoost)
 - Support vector machine (SVM)
-- Gaussian mixture model (GMM)
-- K-means clustering
-- Density-based spatial clustering (DBSCAN)
-- Principal component analysis (PCA)
+- Clustering
+  - K-means clustering
+  - Gaussian mixture model (GMM)
+  - Density-based spatial clustering (DBSCAN)
+- Dimensionality reduction
+  - Principal component analysis (PCA)
+  - Uniform manifold approximation and projection (UMAP)
+  - t-distributed stochastic neighbor embedding (t-SNE)
 - Neural network (NN)
   - Feedforward neural network (FNN)
   - Convolutional neural network (CNN)
