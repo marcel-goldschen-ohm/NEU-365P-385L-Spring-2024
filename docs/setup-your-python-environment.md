@@ -25,7 +25,7 @@ conda config --show channels
 Note that you can always specify the channel to search when installing packages on a per package basis. An example of this is shown in the next step.
 
 # 3. Create a sandboxed Python environment for this course
-First, create a new conda environemnt named "neu365p". In a command shell or terminal run:
+First, create a new conda environemnt named "neu365". In a command shell or terminal run:
 ```
 conda create --name neu365
 ```
