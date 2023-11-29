@@ -26,12 +26,15 @@ Model optimization
 ---
 8. Feb 08 R - Curve fitting and maximum likelihood estimation (MLE)
 
-Linear models
+Linear model
 ---
 9. Feb 13 T - Linear regression
-10. Feb 15 R - Generalized linear model (GLM): Poisson and logistic regression
 
-Sequences
+Generalized linear model (GLM)
+---
+10. Feb 15 R - Poisson and logistic regression
+
+Sequence
 ---
 11. Feb 20 T - Time series
 12. Feb 22 R - Convolution
@@ -41,7 +44,7 @@ Simulating a neuron
 13. Feb 27 T - Leaky integrate and fire (LIF) neuron
 14. Feb 29 R - LIF neuron with synaptic input
 
-Hidden Markov models
+Hidden Markov model
 ---
 15. Mar 05 T - Hidden Markov model (HMM) for an ion channel
 16. Mar 07 R - HMM for a DNA sequence
@@ -67,7 +70,7 @@ Classification
 ---
 20. Mar 28 R - Confusion matrix, ROC curve, support vector machine (SVM)
 
-Ensemble models
+Ensemble model
 ---
 21. Apr 02 T - Random forest and extreme gradient boosting (XGBoost)
 
@@ -80,7 +83,7 @@ Dimensionality reduction
 23. Apr 09 T - Principal component analysis (PCA)
 24. Apr 11 R - PCA and RNAseq lab, UMAP, t-SNE
 
-Neural networks
+Neural network
 ---
 25. Apr 16 T - Feedforward neural network (FNN)
 26. Apr 18 R - Feedforward neural network (FNN)
