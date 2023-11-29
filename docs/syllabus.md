@@ -27,19 +27,23 @@ NEU 365P/385P - Spring 2024 - Programming and Data Analysis for Modern Neuroscie
 **Modeling data**
 
 12. Feb 22 R - 
-13. Feb 29 T - 
-14. ?
-15. ?
-16. ?
-17. ?
-18. ?
-19. ?
-20. ?
-21. ?
-22. ?
-23. ?
-24. ?
-25. ?
-26. ?
-27. ?
-28. ?
+13. Feb 27 T - 
+14. Feb 29 R - 
+15. Mar 05 T - 
+16. Mar 07 R - 
+
+Mar 12 T - SPRING BREAK
+Mar 14 R - SPRING BREAK
+
+17. Mar 19 T - 
+18. Mar 21 R - 
+19. Mar 26 T - 
+20. Mar 28 R - 
+21. Apr 02 T - 
+22. Apr 04 R - 
+23. Apr 09 T - 
+24. Apr 11 R - 
+25. Apr 16 T - 
+26. Apr 18 R - 
+27. Apr 23 T - 
+28. Apr 25 R - 
