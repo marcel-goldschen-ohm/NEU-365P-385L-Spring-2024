@@ -3,31 +3,31 @@ NEU 365P/385P - Spring 2024 - Programming and Data Analysis for Modern Neuroscie
 
 **Python intro**
 
-1. Course intro and python environment
-2. Python basics
-3. Lists, loops, and functions
-4. Classes and modules
+1. Jan 16 T - Course intro and python environment
+2. Jan 18 R - Python basics
+3. Jan 23 T - Lists, loops, and functions
+4. Jan 25 R - Classes and modules
 
 **Working with data**
 
-5. Numpy and matplotlib
-6. Pandas and hvplot
+5. Jan 30 T - Numpy and matplotlib
+6. Feb 01 R - Pandas and hvplot
 
 **Probability and random variables**
 
-7. Probability distributions
-8. Bootstrap resampling and confidence intervals
-9. Hypothesis testing: p-values and permutation test
+7. Feb 06 T - Probability distributions
+8. Feb 08 R - Bootstrap resampling and confidence intervals
+9. Feb 13 T - Hypothesis testing: p-values and permutation test
 
 **Sequences**
 
-10. Time series
-11. Convolution
+10. Feb 15 R - Time series
+11. Feb 20 T - Convolution
 
 **Modeling data**
 
-12. ?
-13. ?
+12. Feb 22 R - 
+13. Feb 29 T - 
 14. ?
 15. ?
 16. ?
