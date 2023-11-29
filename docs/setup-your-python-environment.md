@@ -82,7 +82,7 @@ When you are done using JupyterLab, from within the JupyterLab browser interface
 There are a variety of user interfaces for Python coding from the most basic text editor and cmd shell to more complex integrated development environments (IDEs) with more features such as JupyterLab. One alternative to JupyterLab that is compatible with Jupyter notebooks is VSCode.
 1. Download [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
 2. Open VSCode and install the **Python** and **Jupyter** extensions.
-3. In VSCode, Select `View->Command Palette...` and search for and select `Python: Select Interpreter`, then select the Python version associated with your neu365p environment (e.g., `Python 3.11.0 ('neu365')`).
+3. In VSCode, Select `View->Command Palette...` and search for and select `Python: Select Interpreter`, then select the Python version associated with your neu365 environment (e.g., `Python 3.11.0 ('neu365')`).
 4. In VSCode you can also set the Python interpreter for each individual file. When you open a Python file the interpreter will be displayed in one of the corners. Make sure it is set to the Python version associated with neu365, otherwise click the displayed interpreter and select from the dropdown the one for neu365.
 
 *It does NOT matter which user interface you use.* Both JupyterLab and VSCode will give you a pretty similar experience, as will several other IDEs such as [PyCharm](https://www.jetbrains.com/pycharm/) or [Spyder](https://www.spyder-ide.org).
