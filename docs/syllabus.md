@@ -20,7 +20,7 @@ Probability and random variables
 
 Resampling
 ---
-7. Feb 06 T - Bootstrap confidence intervals and permutation test
+7. Feb 06 T - Bootstrap confidence interval and permutation test
 
 Model optimization
 ---
