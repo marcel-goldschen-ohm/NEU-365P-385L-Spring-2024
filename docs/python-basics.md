@@ -10,12 +10,12 @@ Familiarizing yourself with the concepts listed below is in my opinion sufficien
 7. Nested blocks
 8. `list` and `tuple`
 9. `sorted` and `reversed` functions
-10. List unpacking: `*`
-11. List zipping: `zip`
-12. List comprehensions
-13. List indexing and slicing: `[start]`, `[start:stop]`, `[start:stop:step]`
-14. Dictionary {key: value} pairs: `dict`
-15. Dictionary indexing: `[key] = value`
+10. List indexing and slicing: `[start]`, `[start:stop]`, `[start:stop:step]`
+11. Dictionary {key: value} pairs: `dict`
+12. Dictionary indexing: `[key] = value`
+13. List unpacking: `*`
+14. List zipping: `zip`
+15. List comprehensions
 16. `for` and `while` loop blocks
 17. `range` and `len` functions
 18. `def` function blocks
