@@ -4,8 +4,8 @@ Programming and Data Analysis for Modern Neuroscience
 # Course info
 - [Course info](docs/course-info.md)
 - [Discussion board](docs/discussion-board.md)
-- 🚧 Homework
-- 🚧 Syllabus
+- 🚧 [Syllabus](docs/syllabus.md)
+- 🚧 Assignments
 
 # Setup
 - [Setup your Python environment](docs/setup-your-python-environment.md)
