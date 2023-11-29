@@ -46,6 +46,8 @@ Hidden Markov models
 15. Mar 05 T - Hidden Markov model (HMM) for an ion channel
 16. Mar 07 R - HMM for a DNA sequence
 
+🏖️ Spring break
+---
 - Mar 12 T - SPRING BREAK
 - Mar 14 R - SPRING BREAK
 
@@ -84,7 +86,3 @@ Neural networks
 26. Apr 18 R - Feedforward neural network (FNN)
 27. Apr 23 T - Recurrent neural network (RNN)
 28. Apr 25 R - Long/Short term memory (LSTM) neural network
-
-- Optimization
-- Maximum likelihood estimation (MLE)
-- Hidden Markov model (HMM)
