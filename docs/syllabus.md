@@ -13,12 +13,20 @@ NEU 365P/385P - Spring 2024 - Programming and Data Analysis for Modern Neuroscie
 5. Numpy and matplotlib
 6. Pandas and hvplot
 
+**Probability and random variables**
+
+7. Probability distributions
+8. Bootstrap resampling and confidence intervals
+9. p-values
+10. Permutation test
+
+**Sequences**
+
+9. Time series
+10. Convolution
+
 **?**
 
-7. ?
-8. ?
-9. ?
-10. ?
 11. ?
 12. ?
 13. ?
@@ -39,4 +47,3 @@ NEU 365P/385P - Spring 2024 - Programming and Data Analysis for Modern Neuroscie
 28. ?
 
 - Random walk simulation
-- Probability
