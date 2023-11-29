@@ -3,31 +3,31 @@ NEU 365P/385P - Spring 2024 - Programming and Data Analysis for Modern Neuroscie
 
 ⚠️ *The syllabus is subject to change as the course progresses depending on my judgement.* This is because I modify my course every year to make it that much better for you. That said, the current syllabus is at least a reasonable approximation of what the final course will look like.
 
-**Python intro**
-
+Python intro
+---
 1. Jan 16 T - Course intro and python environment
 2. Jan 18 R - Python basics
 3. Jan 23 T - Lists, loops, and functions
 4. Jan 25 R - Classes and modules
 
-**Working with data**
-
+Working with data
+---
 5. Jan 30 T - Numpy and matplotlib
 6. Feb 01 R - Pandas and hvplot
 
-**Probability and random variables**
-
+Probability and random variables
+---
 7. Feb 06 T - Probability distributions
 8. Feb 08 R - Bootstrap resampling and confidence intervals
 9. Feb 13 T - Hypothesis testing: p-values and permutation test
 
-**Sequences**
-
+Sequences
+---
 10. Feb 15 R - Time series
 11. Feb 20 T - Convolution
 
-**Modeling data**
-
+Modeling data
+---
 12. Feb 22 R - 
 13. Feb 27 T - 
 14. Feb 29 R - 
