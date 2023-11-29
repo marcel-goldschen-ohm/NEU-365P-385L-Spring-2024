@@ -1,6 +1,6 @@
 
 # Programming and Data Analysis for Modern Neuroscience
-NEU 365P/385P - Spring 2023
+NEU 365P/385P - Spring 2024
 
 - [Course Objective](#course-objective)
     - [Breadth over Depth](#breadth-over-depth)
