@@ -38,44 +38,44 @@ Generalized linear model (GLM)
 ---
 11. Feb 20 T - Poisson and logistic regression
 
-Time series (i.e., sequences)
+Nonlinear regression
 ---
-12. Feb 22 R - Time series and convolution
+12. Feb 22 R - Polynomial and k-nearest neighbors (KNN) regression
 
-Simulating a neuron
+Model selection
 ---
-13. Feb 27 T - Leaky integrate and fire (LIF) neuron
-14. Feb 29 R - LIF neuron with synaptic input
+13. Feb 27 T - Bias/Variance tradeoff and cross validation
 
-Hidden Markov model
+Regularization
 ---
-15. Mar 05 T - Hidden Markov model (HMM) for an ion channel
-16. Mar 07 R - HMM for a DNA sequence
+14. Feb 29 R - Ridge and lasso regression
+
+Classification
+---
+15. Mar 05 T - Confusion matrix, ROC curve, support vector machine (SVM)
+
+Ensemble model
+---
+16. Mar 07 R - Random forest classifier and extreme gradient boosting (XGBoost)
 
 🏖️ Spring break
 ---
 - Mar 12 T - SPRING BREAK
 - Mar 14 R - SPRING BREAK
 
-Nonlinear regression
+Time series (i.e., sequences)
 ---
-17. Mar 19 T - Polynomial and k-nearest neighbors (KNN) regression
+17. Mar 19 T - Time series and convolution
 
-Model selection
+Simulating a neuron
 ---
-18. Mar 21 R - Bias/Variance tradeoff and cross validation
+18. Mar 21 R - Leaky integrate and fire (LIF) neuron
+19. Mar 26 T - LIF neuron with synaptic input
 
-Regularization
+Hidden Markov model
 ---
-19. Mar 26 T - Ridge and lasso regression
-
-Classification
----
-20. Mar 28 R - Confusion matrix, ROC curve, support vector machine (SVM)
-
-Ensemble model
----
-21. Apr 02 T - Random forest and extreme gradient boosting (XGBoost)
+20. Mar 28 R - Hidden Markov model (HMM) for an ion channel
+21. Apr 02 T - HMM for a DNA sequence
 
 Clustering
 ---
@@ -84,7 +84,7 @@ Clustering
 Dimensionality reduction
 ---
 23. Apr 09 T - Principal component analysis (PCA)
-24. Apr 11 R - PCA and RNAseq lab, UMAP, t-SNE
+24. Apr 11 R - RNAseq lab with PCA (or UMAP or t-SNE) and clustering
 
 Neural network
 ---
