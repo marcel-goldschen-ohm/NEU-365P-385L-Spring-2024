@@ -22,13 +22,13 @@ Resampling
 ---
 7. Feb 06 T - Bootstrap confidence interval and permutation test
 
-Hypothesis testing
----
-8. Feb 08 R - p-value
-
 Model optimization
 ---
-9. Feb 13 T - Curve fitting and maximum likelihood estimation (MLE)
+8. Feb 08 R - Curve fitting and maximum likelihood estimation (MLE)
+
+Review
+---
+9. Feb 13 T - Review
 
 Linear model
 ---
