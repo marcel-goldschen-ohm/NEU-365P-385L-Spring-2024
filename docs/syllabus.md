@@ -38,7 +38,7 @@ Generalized linear model (GLM)
 ---
 11. Feb 20 T - Poisson and logistic regression
 
-Nonlinear regression
+Nonlinear model
 ---
 12. Feb 22 R - Polynomial and k-nearest neighbors (KNN) regression
 
