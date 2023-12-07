@@ -15,7 +15,8 @@
 8. Confidence interval
 9. Bootstrap
 10. Hypothesis testing
-    - p-value
+    - Logical implications of assuming a null hypothesis to be true
+    - p-value (what it is and what it isn't) and rare events
     - Permutation test
 
 Other resources of interest:
