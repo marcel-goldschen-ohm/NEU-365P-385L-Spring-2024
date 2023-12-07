@@ -42,7 +42,7 @@ Programming and Data Analysis for Modern Neuroscience
 - Cross validation
 - Bayesian information criterion (BIC)
 - Silhouette score
-### Models
+### Models explored in this course
 - Probability distribution
   - Normal, Exponential, Poisson, Binomial
   - Gaussian mixture model (GMM)
