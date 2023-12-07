@@ -55,12 +55,12 @@ Programming and Data Analysis for Modern Neuroscience
   - K-Nearest neighbors (KNN)
 - Regularization
   - Ridge, Lasso, Elastic net
-- Ensemble models
+- Ensemble model
   - Random forest
   - Extreme gradient boosting (XGBoost)
 - Support vector machine (SVM)
 - Clustering
-  - K-means clustering
+  - K-means
   - Gaussian mixture model (GMM)
   - Density-based spatial clustering (DBSCAN)
 - Dimensionality reduction
