@@ -24,8 +24,7 @@ Programming and Data Analysis for Modern Neuroscience
 - [Statistical inference](docs/statistical-inference.md)
 
 # 🚧 Sequences
-- Time series
-- Image
+- Time series, images, etc.
 - Convolution
 
 # 🚧 Modeling data
