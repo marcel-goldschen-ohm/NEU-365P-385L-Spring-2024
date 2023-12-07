@@ -51,8 +51,8 @@ Programming and Data Analysis for Modern Neuroscience
   - Polynomial
   - K-Nearest neighbors (KNN)
 - Generalized linear model (GLM)
-  - Logistic regression
   - Poisson regression
+  - Logistic regression
 - Regularization
   - Ridge, Lasso, and Elastic net
 - Ensemble models
