@@ -48,6 +48,7 @@ Programming and Data Analysis for Modern Neuroscience
   - Gaussian mixture model (GMM)
 - Linear model
 - Nonlinear model
+  - Polynomial
   - K-Nearest neighbors (KNN)
 - Generalized linear model (GLM)
   - Logistic regression
