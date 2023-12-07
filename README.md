@@ -47,12 +47,12 @@ Programming and Data Analysis for Modern Neuroscience
   - Normal, Exponential, Poisson, Binomial
   - Gaussian mixture model (GMM)
 - Linear model
-- Nonlinear model
-  - Polynomial
-  - K-Nearest neighbors (KNN)
 - Generalized linear model (GLM)
   - Poisson
   - Logistic
+- Nonlinear model
+  - Polynomial
+  - K-Nearest neighbors (KNN)
 - Regularization
   - Ridge, Lasso, Elastic net
 - Ensemble models
