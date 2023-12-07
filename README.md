@@ -28,20 +28,21 @@ Programming and Data Analysis for Modern Neuroscience
 - Convolution
 
 # 🚧 Modeling data
-- Model objectives
-  - Regression
-  - Classification
-  - Clustering
-  - Dimensionality reduction
-  - Encode/Decode
-  - Simulation
-- Optimization
-  - Gradient descent
-  - Global vs local optimization
-- Evaluating and choosing between models
-  - Cross validation
-  - Bayesian information criterion (BIC)
-  - Silhouette score
+### Model objectives
+- Regression
+- Classification
+- Clustering
+- Dimensionality reduction
+- Encode/Decode
+- Simulation
+### Model optimization
+- Gradient descent
+- Global vs local optimization
+### Model selection and confidence
+- Cross validation
+- Bayesian information criterion (BIC)
+- Silhouette score
+### Models
 - Probability distribution
   - Normal, Exponential, Poisson, Binomial
   - Gaussian mixture model (GMM)
@@ -50,7 +51,7 @@ Programming and Data Analysis for Modern Neuroscience
   - K-Nearest neighbors (KNN)
 - Generalized linear model (GLM)
   - Logistic regression
-  - Poisson GLM
+  - Poisson regression
 - Regularization
   - Ridge, Lasso, and Elastic net
 - Ensemble models
@@ -75,5 +76,4 @@ Programming and Data Analysis for Modern Neuroscience
   - Reccurent neural network (RNN)
 - Models of neurons
   - Leaky integrate and fire (LIF) neuron
-    - LIF neuron with synaptic input
   - Hodgkin and Huxley (HH) neuron
