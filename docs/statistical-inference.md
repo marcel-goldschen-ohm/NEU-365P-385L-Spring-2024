@@ -15,6 +15,7 @@
 8. Confidence interval
 9. Bootstrap
 10. Hypothesis testing
+    - p-value
     - Permutation test
 
 Other resources of interest:
