@@ -7,7 +7,7 @@ You are free to setup your python environment however you like. The following is
 4. [Run JupyterLab](#4-run-jupyterlab)
 5. [`OPTIONAL:` Install Visual Studio Code (VSCode)](#5-optional-install-visual-studio-code-vscode)
 - [Python in the cloud](#python-in-the-cloud)
-- [Resources](#resources)
+- [More information](#more-information)
 
 # 1. Install Conda
 Download and install the latest version of [Miniconda3](https://docs.conda.io/en/latest/miniconda.html).
@@ -91,5 +91,5 @@ There are a variety of user interfaces for Python coding from the most basic tex
 # Python in the cloud
 [Google Colab](https://colab.research.google.com) is a purely cloud-based option that is worth taking a look at. However, for this course I want you to setup a local Python environment on your computer by following steps 1-4(5) above. This way you will be able to familiarize yourself with managing your own packages and virtual environments, both of which are important skills for working in a general Python ecosystem.
 
-# Resources
+# More information
 - [Blog on python package/environment tools with nice Venn diagrams](https://alpopkes.com/posts/python/packaging_tools/)
