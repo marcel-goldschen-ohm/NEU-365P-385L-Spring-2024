@@ -39,6 +39,7 @@ Python intro
        - Class instance (`self`) vs class template
        - Class inheritance
        - Modules
+     - You will have heard from me that shoehorning your code into classes is often *unnecessary overcomplication*, whereas modules are almost always a good idea for anything larger than a short script.
 
    </details>
 
@@ -79,15 +80,44 @@ Working with data
 
 Probability and random variables
 ---
-6. Feb 01 R - Probability distributions
+6. <details><summary>Feb 01 R - Probability distributions</summary>
+  
+     - You will understand the difference between a probability and a probability density.
+     - You will be able to compute some common descriptive statistics (e.g., mean, variance).
+     - You will understand how some basic probability distributions relate to particular types of random behavior:
+       - **Normal**: random fluctuations (e.g., white noise)
+       - **Exponential**: random intervals between events ocurring at a constant average rate (e.g., time between spikes for a spiking neuron)
+       - **Poisson**: random number of events within an interval for events ocurring at a constant average rate (e.g., number of spikes in a second for a spiking neuron)
+       - **Binomial**: random number of successes for some number of trials all with the same probability of success (e.g., number of times subject recieved reward out of total number of trials)
+     - You will be able to visualize how well a probability distribution explains data.
+     - You will be able to use a probability distribution to make predictions.
+
+   </details>
 
 Resampling
 ---
-7. Feb 06 T - Bootstrap confidence interval and permutation test
+7. <details><summary>Feb 06 T - Bootstrap confidence interval and permutation test</summary>
+  
+     - You will understand the difference between a population distribution and a sample.
+     - You will appreciate that statistics for different samples are likely to vary.
+     - You will understand the concept of a sampling distribution.
+     - You will understand the concept of a confidence interval.
+     - You will be able to compute a confidence interval using bootstrapping.
+     - You will be able to test the hypothesis that two samples come from the same population distribution using a permutation test.
+     - You will appreciate how the Central Limit Theorem explains why normal-ish distributions are frequently observed in biological measurements.
+
+   </details>
 
 Model optimization
 ---
-8. Feb 08 R - Curve fitting and maximum likelihood estimation (MLE)
+8. <details><summary>Feb 08 R - Curve fitting and maximum likelihood estimation (MLE)</summary>
+  
+     - You will be able to fit a function to data by minimizing the residuals.
+     - You will be able to fit an arbitrary probability distribution to data by maximizing the loglikelihood.
+     - You will understand the concept of gradient descent minimization.
+     - You will appreciate the difference between local and global optimization.
+
+   </details>
 
 Review
 ---
