@@ -5,9 +5,42 @@ NEU 365P/385P - Spring 2024 - Programming and Data Analysis for Modern Neuroscie
 
 Python intro
 ---
-1. Jan 16 T - Course intro and python intro
-2. Jan 18 R - Python basics
-3. Jan 23 T - Classes and modules
+1. <details><summary>Jan 16 T - Course intro and python intro</summary>
+  
+     - You will get a brief overview of the course.
+     - You will be able to use `conda` to manage python environments.
+     - You will be able to use `conda` and `pip` to manage python packages within each environment.
+     - You will be able to run python code in a Jupyter notebook.
+     - You will understand some basic python code:
+       - Variables
+       - Types
+       - Basic operations
+       - Logical comparisons
+       - Comments
+
+   </details>
+2. <details><summary>Jan 18 R - Python basics</summary>
+  
+     - You will understand some basic python code:
+       - `if` code blocks
+       - Nested code blocks
+       - `list` and indexing/slicing
+       - `dict` (key,value) pairs
+       - `for` and `while` loops
+       - Functions (optional named and default arguments)
+       - Assignment vs mutation
+
+   </details>
+3. <details><summary>Jan 23 T - Classes and modules</summary>
+  
+     - You will understand how to compartmentalize python code beyond simple functions:
+       - `class` code blocks
+       - Class `__init__` method
+       - Class instance (`self`) vs class template
+       - Class inheritance
+       - Modules
+
+   </details>
 
 Working with data
 ---
