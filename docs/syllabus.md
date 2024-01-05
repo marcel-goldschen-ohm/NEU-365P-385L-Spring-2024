@@ -62,8 +62,8 @@ Working with data
 5. <details><summary>Jan 30 T - Pandas tables and hvplot</summary>
   
      - You will be able to to work with tabular data sets using `pandas`:
-       - Convert between `pandas` dataframes and `*.csv` or Excel files
-       - Extract data as `numpy` arrays
+       - Convert between `pandas` dataframes and `numpy` arrays.
+       - Read/Write `pandas` dataframes from/to `*.csv` or Excel files.
        - Index and slice like numpy (e.g., `iloc`) or by name (e.g., `loc`)
        - Logical masks
        - Missing values
