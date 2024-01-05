@@ -24,7 +24,7 @@ Python intro
      - You will understand some basic python code:
        - `if` code blocks
        - Nested code blocks
-       - `list` and indexing/slicing
+       - `list` and index/slice
        - `dict` (key,value) pairs
        - `for` and `while` loops
        - Functions (optional named and default arguments)
@@ -44,7 +44,21 @@ Python intro
 
 Working with data
 ---
-4. Jan 25 R - Numpy N-D arrays and matplotlib
+4. <details><summary>Jan 25 R - Numpy N-dimensional arrays and matplotlib</summary>
+  
+     - You will appreciate that many types of data can be represented as N-dimensional arrays.
+     - You will understand how to work with `numpy` N-dimensional arrays.
+       - Array initialization (e.g., `zeros`, `ones`, `random`) and `shape`
+       - Element-wise array math
+       - Index and slice
+       - Logical masks
+       - Reductions (e.g., `min`, `max`, `mean`, `var`)
+       - Broadcasting
+     - You will appreciate that `numpy` can be *much much* faster than raw python.
+     - You will appreciate that without `numpy` we would not use python for most data analysis.
+     - You will be able to visualize data with simple plots using `matplotlib`.
+
+   </details>
 5. Jan 30 T - Pandas tables and hvplot
 
 Probability and random variables
