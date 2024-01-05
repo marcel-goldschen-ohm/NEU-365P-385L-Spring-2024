@@ -129,11 +129,13 @@ Linear model
   
      - You will be able to fit a line to X vs. Y data.
      - You will be able to fit a (hyper-)plane to {X0, X1, X2, ...} vs. Y data.
+     - You will be able to predict the Y value for new {X0, X1, X2, ...} values.
      - You will be able to compute the mean squared error (MSE) and R^2 value for your fit.
      - You will be able to compute confidence intervals for all model parameters and visualize a confidence envelope for your fit.
      - You will appreciate why the residuals should be normally distributed.
      - You will appreciate why data points with high leverage can greatly influence your fit.
      - You will understand under what conditions you may want to standardize your features {X0, X1, X2, ...}.
+     - You will understand that regression involves modeling a relation between feature variables {X0, X1, X2, ...} and a target variable Y.
      - You will appreciate that it is straightforward to understand the meaning of the parameters in a linear regression.
      - You will appreciate that the existence of a mathematically computable solution makes linear regression extremely fast.
 
@@ -144,8 +146,9 @@ Nonlinear model
 11. Feb 20 T - <details><summary>Polynomial and k-nearest neighbors (KNN) regression</summary>
   
      - You will be able to fit a polynomial to {X0, X1, X2, ...} vs. Y data.
-     - You will understand how polynomial regression can be recast as a simple linear regression.
      - You will be able to fit nonlinear {X0, X1, X2, ...} vs. Y data with a KNN model.
+     - You will be able to predict the Y value for new {X0, X1, X2, ...} values.
+     - You will understand how polynomial regression can be recast as a simple linear regression.
      - You will appreciate that although a KNN model can be used to explain or predict lots of arbitrary nonlinear relations, it is less obvious what the model means.
 
    </details>
@@ -169,7 +172,7 @@ Regularization
      - You will appreciate how correlations can influence a linear regression.
      - You will be able to perform ridge and lasso regression.
      - You will appreciate how regularization can prevent poorly constrained model parameters from exploding.
-     - You will appreciate how regularization can identify model parameters with little to no impact.
+     - You will appreciate how lasso regularization can identify model parameters with little to no impact.
      - You understand how to choose (tune) the regularization hyperparameter.
 
    </details>
@@ -179,7 +182,7 @@ Generalized linear model (GLM)
 14. <details><summary>Feb 29 R - Poisson and logistic regression</summary>
 
      - You will gain a conceptual understanding for a generalized linear model.
-     - You will appreciate why a GLM may be a better choice for models of neural spiking.
+     - You will appreciate why a GLM may be a better choice than a simple linear model for neural spiking data.
      - You will use a GLM (poisson regression) to predict a neuron's spiking in response to a stimulus.
      - You will see how the choice of noise distribution in a GLM can be used for binary classification.
      - You will use a GLM (logistic regression) to predict a mouse's left vs. right choice from its neural activity.
@@ -188,11 +191,34 @@ Generalized linear model (GLM)
 
 Classification
 ---
-15. Mar 05 T - Confusion matrix, ROC curve, support vector machine (SVM)
+15. <details><summary>Mar 05 T - Confusion matrix, ROC curve, support vector machine (SVM)</summary>
+
+     - You will understand that classification invovles modeling the categorical grouping of data.
+     - You will be able to use a logistic regression binary classifier.
+     - You will be able to use your classifer to predict the class to which data belongs.
+     - You will be able to compute the accuracy of your classifier given data with known class labels.
+     - You will be able to use your classifer to get the probability of each possible class.
+     - You will be able to compute cross validated predictions, accuracy, and probabilities.
+     - You will be able to generate a confusion matrix for your classifier.
+     - You will be able to generate a ROC curve for your classifier.
+     - You will gain a conceptual understanding for classification with a support vector machine.
+     - You will be able to use a SVM classifier to separate data with linear boundaries.
+     - You will appreciated at the conceptual level that SVM can achieve complex nonlinear boundaries by projecting the data into higher dimensions.
+     - You will be able to use a SVM classifier to separate data with nonlinear boundaries.
+
+   </details>
 
 Ensemble model
 ---
-16. Mar 07 R - Random forest classifier and extreme gradient boosting (XGBoost)
+16. <details><summary>Mar 07 R - Random forest classifier and extreme gradient boosting (XGBoost)</summary>
+
+     - You will gain a conceptual understanding of a decision tree.
+     - You will gain a conceptual understanding of a random forest ensemble of decision trees.
+     - You will be able to use a random forest classifier.
+     - You will understand the concept of boosting.
+     - You will be able to use a XGBoost classifier.
+
+   </details>
 
 🏖️ Spring break
 ---
