@@ -47,7 +47,7 @@ Working with data
 4. <details><summary>Jan 25 R - Numpy N-dimensional arrays and matplotlib</summary>
   
      - You will appreciate that many types of data can be represented as N-dimensional arrays.
-     - You will understand how to work with `numpy` N-dimensional arrays.
+     - You will understand how to work with `numpy` N-dimensional arrays:
        - Array initialization (e.g., `zeros`, `ones`, `random`) and `shape`
        - Element-wise array math
        - Index and slice
@@ -59,7 +59,23 @@ Working with data
      - You will be able to visualize data with simple plots using `matplotlib`.
 
    </details>
-5. Jan 30 T - Pandas tables and hvplot
+5. <details><summary>Jan 30 T - Pandas tables and hvplot</summary>
+  
+     - You will be able to to work with tabular data sets using `pandas`:
+       - Convert between `pandas` dataframes and `*.csv` or Excel files
+       - Extract data as `numpy` arrays
+       - Index and slice like numpy (e.g., `iloc`) or by name (e.g., `loc`)
+       - Logical masks
+       - Missing values
+       - Column-wise reductions (e.g., `sum`, `mean`)
+       - Group data (e.g., `groupby`)
+       - Simple plots (e.g., `plot`, `plot.bar`)
+       - Correlations
+     - You will be able to use `seaborn` to create some nice looking plots from a `pandas` dataframe.
+     - You will be able to use `hvplot` to create some nice looking plots from a `pandas` dataframe.
+     - You will appreciate how useful `pandas` is for exploratory data analysis.
+
+   </details>
 
 Probability and random variables
 ---
