@@ -15,4 +15,5 @@ Other resources of interest:
 - [plotly](https://plotly.com): Interactive plots. Note that hvplot can be configured to use plotly if you want.
 - [bokeh](https://bokeh.org): Interactive plots. Note that hvplot uses bokeh by default.
 - [panel](https://panel.holoviz.org): Create dashboard apps in your browser with interactive graphs. I don't have any experience with this, but it looks like it could be a nice option.
+- [vispy](https://vispy.org): OpenGL accelerated plotting. This is pretty awesome, but currently requires a lot of low level coding. Thus, it is probably not very appropriate unless you are comfortable digging through a large code base with sparse documentation.
 - [PySide/PyQt](https://wiki.qt.io/Qt_for_Python): Create graphical user interface (GUI) apps. I personally love Qt, but be warned that this may require a large investment to become reasonably familiar with.
