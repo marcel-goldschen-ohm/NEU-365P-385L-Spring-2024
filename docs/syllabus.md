@@ -125,23 +125,66 @@ Review
 
 Linear model
 ---
-10. Feb 15 R - Linear regression
+10. <details><summary>Feb 15 R - Linear regression</summary>
+  
+     - You will be able to fit a line to X vs. Y data.
+     - You will be able to fit a (hyper-)plane to {X0, X1, X2, ...} vs. Y data.
+     - You will be able to compute the mean squared error (MSE) and R^2 value for your fit.
+     - You will be able to compute confidence intervals for all model parameters and visualize a confidence envelope for your fit.
+     - You will appreciate why the residuals should be normally distributed.
+     - You will appreciate why data points with high leverage can greatly influence your fit.
+     - You will understand under what conditions you may want to standardize your features {X0, X1, X2, ...}.
+     - You will appreciate that it is straightforward to understand the meaning of the parameters in a linear regression.
+     - You will appreciate that the existence of a mathematically computable solution makes linear regression extremely fast.
 
-Generalized linear model (GLM)
----
-11. Feb 20 T - Poisson and logistic regression
+   </details>
 
 Nonlinear model
 ---
-12. Feb 22 R - Polynomial and k-nearest neighbors (KNN) regression
+11. Feb 20 T - <details><summary>Polynomial and k-nearest neighbors (KNN) regression</summary>
+  
+     - You will be able to fit a polynomial to {X0, X1, X2, ...} vs. Y data.
+     - You will understand how polynomial regression can be recast as a simple linear regression.
+     - You will be able to fit nonlinear {X0, X1, X2, ...} vs. Y data with a KNN model.
+     - You will appreciate that although a KNN model can be used to explain or predict lots of arbitrary nonlinear relations, it is less obvious what the model means.
+
+   </details>
 
 Model selection
 ---
-13. Feb 27 T - Bias/Variance tradeoff and cross validation
+12. Feb 22 R - <details><summary>Train/Test, bias/variance, and cross validation</summary>
+
+     - You will be able to split your dataset up into training and testing sets.
+     - You will understand the difference between training error and testing error.
+     - You will appreciate that often the best model is the one that will generalize best to new data (i.e., has the lowest testing error, not the lowest training error).
+     - You will understand the concept of the "bias vs. variance" tradeoff.
+     - You will be able to perform K-fold cross validation.
+
+   </details>
 
 Regularization
 ---
-14. Feb 29 R - Ridge and lasso regression
+13. <details><summary>Feb 27 T - Ridge and lasso regression</summary>
+
+     - You will appreciate how correlations can influence a linear regression.
+     - You will be able to perform ridge and lasso regression.
+     - You will appreciate how regularization can prevent poorly constrained model parameters from exploding.
+     - You will appreciate how regularization can identify model parameters with little to no impact.
+     - You understand how to choose (tune) the regularization hyperparameter.
+
+   </details>
+
+Generalized linear model (GLM)
+---
+14. <details><summary>Feb 29 R - Poisson and logistic regression</summary>
+
+     - You will gain a conceptual understanding for a generalized linear model.
+     - You will appreciate why a GLM may be a better choice for models of neural spiking.
+     - You will use a GLM (poisson regression) to predict a neuron's spiking in response to a stimulus.
+     - You will see how the choice of noise distribution in a GLM can be used for binary classification.
+     - You will use a GLM (logistic regression) to predict a mouse's left vs. right choice from its neural activity.
+
+   </details>
 
 Classification
 ---
