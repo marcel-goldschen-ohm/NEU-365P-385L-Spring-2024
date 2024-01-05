@@ -227,7 +227,23 @@ Ensemble model
 
 Time series (i.e., sequences)
 ---
-17. Mar 19 T - Time series and convolution
+17. <details><summary>Mar 19 T - Time series and convolution</summary>
+
+     - You will appreciate that data points in sequences are correlated (unless pure noise) as opposed to independent random variables.
+     - You will be able to compute the autocorrelation of a sequence.
+     - You will be appreciate how undersampling can introduces aliasing artifacts in a sequence.
+     - You will be able to visualize the frequency power spectrum of a 1-D sequence.
+     - You will be able to visualize the frequency spectrrogram of a 1-D sequence.
+     - You will understand why convolution describes a systems output based on its impulse response.
+     - You will be able to convolve two 1-D sequences.
+     - You will appreciate how convolution can be used to filter a sequence.
+     - You will be able to apply lowpass, highpass and bandpass finite impulse response (FIR) filters to a 1-D sequence.
+     - You will be able to properly downsample a 1-D sequence without introducing alisasing artifacts.
+     - You will be able to convolve two 2-D sequences (e.g., images).
+     - You will appreciate that convolution can be used to highlight features in an image.
+     - You will appreciate that the joint probability distribution resulting from adding two random variables is the convolution of their individual probability distributions.
+
+   </details>
 
 Simulating a neuron
 ---
