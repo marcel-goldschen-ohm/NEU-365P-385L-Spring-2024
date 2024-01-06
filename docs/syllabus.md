@@ -17,6 +17,7 @@ Python intro
        - Basic operations
        - Logical comparisons
        - Comments
+       - String formatting
 
    </details>
 2. <details><summary>Jan 18 R - Python basics</summary>
