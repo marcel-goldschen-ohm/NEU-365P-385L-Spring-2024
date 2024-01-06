@@ -73,7 +73,7 @@ conda activate neu365
 ```
 Then, simply run the command:
 ```
-jupyter-lab
+jupyter lab
 ```
 This will start **JupyterLab which will open up a tab in your browser with a complete user interface** for writing and running Python code.
 
