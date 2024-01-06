@@ -127,53 +127,53 @@ Linear model
 ---
 10. <details><summary>Feb 15 R - Linear regression</summary>
   
-     - You will be able to fit a line to X vs. Y data.
-     - You will be able to fit a (hyper-)plane to {X0, X1, X2, ...} vs. Y data.
-     - You will be able to predict the Y value for new {X0, X1, X2, ...} values.
-     - You will be able to compute the mean squared error (MSE) and R^2 value for your fit.
-     - You will be able to compute confidence intervals for all model parameters and visualize a confidence envelope for your fit.
-     - You will appreciate why the residuals should be normally distributed.
-     - You will appreciate why data points with high leverage can greatly influence your fit.
-     - You will understand under what conditions you may want to standardize your features {X0, X1, X2, ...}.
-     - You will understand that regression involves modeling a relation between feature variables {X0, X1, X2, ...} and a target variable Y.
-     - You will appreciate that it is straightforward to understand the meaning of the parameters in a linear regression.
-     - You will appreciate that the existence of a mathematically computable solution makes linear regression extremely fast.
+      - You will be able to fit a line to X vs. Y data.
+      - You will be able to fit a (hyper-)plane to {X0, X1, X2, ...} vs. Y data.
+      - You will be able to predict the Y value for new {X0, X1, X2, ...} values.
+      - You will be able to compute the mean squared error (MSE) and R^2 value for your fit.
+      - You will be able to compute confidence intervals for all model parameters and visualize a confidence envelope for your fit.
+      - You will appreciate why the residuals should be normally distributed.
+      - You will appreciate why data points with high leverage can greatly influence your fit.
+      - You will understand under what conditions you may want to standardize your features {X0, X1, X2, ...}.
+      - You will understand that regression involves modeling a relation between feature variables {X0, X1, X2, ...} and a target variable Y.
+      - You will appreciate that it is straightforward to understand the meaning of the parameters in a linear regression.
+      - You will appreciate that the existence of a mathematically computable solution makes linear regression extremely fast.
 
-   </details>
+    </details>
 
 Nonlinear model
 ---
-11. Feb 20 T - <details><summary>Polynomial and k-nearest neighbors (KNN) regression</summary>
+11. <details><summary>Feb 20 T - Polynomial and k-nearest neighbors (KNN) regression</summary>
   
-     - You will be able to fit a polynomial to {X0, X1, X2, ...} vs. Y data.
-     - You will be able to fit nonlinear {X0, X1, X2, ...} vs. Y data with a KNN model.
-     - You will be able to predict the Y value for new {X0, X1, X2, ...} values.
-     - You will understand how polynomial regression can be recast as a simple linear regression.
-     - You will appreciate that although a KNN model can be used to explain or predict lots of arbitrary nonlinear relations, it is less obvious what the model means.
+      - You will be able to fit a polynomial to {X0, X1, X2, ...} vs. Y data.
+      - You will be able to fit nonlinear {X0, X1, X2, ...} vs. Y data with a KNN model.
+      - You will be able to predict the Y value for new {X0, X1, X2, ...} values.
+      - You will understand how polynomial regression can be recast as a simple linear regression.
+      - You will appreciate that although a KNN model can be used to explain or predict lots of arbitrary nonlinear relations, it is less obvious what the model means.
 
-   </details>
+    </details>
 
 Model selection
 ---
-12. Feb 22 R - <details><summary>Train/Test, bias/variance, and cross validation</summary>
+12. <details><summary>Feb 22 R - Train/Test, bias/variance, and cross validation</summary>
 
-     - You will be able to split your dataset up into training and testing sets.
-     - You will understand the difference between training error and testing error.
-     - You will appreciate that often the best model is the one that will generalize best to new data (i.e., has the lowest testing error, not the lowest training error).
-     - You will understand the concept of the "bias vs. variance" tradeoff.
-     - You will be able to perform K-fold cross validation.
+      - You will be able to split your dataset up into training and testing sets.
+      - You will understand the difference between training error and testing error.
+      - You will appreciate that often the best model is the one that will generalize best to new data (i.e., has the lowest testing error, not the lowest training error).
+      - You will understand the concept of the "bias vs. variance" tradeoff.
+      - You will be able to perform K-fold cross validation.
 
-   </details>
+    </details>
 
 Regularization
 ---
 13. <details><summary>Feb 27 T - Ridge and lasso regression</summary>
 
-     - You will appreciate how correlations can influence a linear regression.
-     - You will be able to perform ridge and lasso regression.
-     - You will appreciate how regularization can prevent poorly constrained model parameters from exploding.
-     - You will appreciate how lasso regularization can identify model parameters with little to no impact.
-     - You understand how to choose (tune) the regularization hyperparameter.
+      - You will appreciate how correlations can influence a linear regression.
+      - You will be able to perform ridge and lasso regression.
+      - You will appreciate how regularization can prevent poorly constrained model parameters from exploding.
+      - You will appreciate how lasso regularization can identify model parameters with little to no impact.
+      - You understand how to choose (tune) the regularization hyperparameter.
 
    </details>
 
@@ -181,11 +181,11 @@ Generalized linear model (GLM)
 ---
 14. <details><summary>Feb 29 R - Poisson and logistic regression</summary>
 
-     - You will gain a conceptual understanding for a generalized linear model.
-     - You will appreciate why a GLM may be a better choice than a simple linear model for neural spiking data.
-     - You will use a GLM (poisson regression) to predict a neuron's spiking in response to a stimulus.
-     - You will see how the choice of noise distribution in a GLM can be used for binary classification.
-     - You will use a GLM (logistic regression) to predict a mouse's left vs. right choice from its neural activity.
+      - You will gain a conceptual understanding for a generalized linear model.
+      - You will appreciate why a GLM may be a better choice than a simple linear model for neural spiking data.
+      - You will use a GLM (poisson regression) to predict a neuron's spiking in response to a stimulus.
+      - You will see how the choice of noise distribution in a GLM can be used for binary classification.
+      - You will use a GLM (logistic regression) to predict a mouse's left vs. right choice from its neural activity.
 
    </details>
 
@@ -193,18 +193,18 @@ Classification
 ---
 15. <details><summary>Mar 05 T - Confusion matrix, ROC curve, support vector machine (SVM)</summary>
 
-     - You will understand that classification invovles modeling the categorical grouping of data.
-     - You will be able to use a logistic regression binary classifier.
-     - You will be able to use your classifer to predict the class to which data belongs.
-     - You will be able to compute the accuracy of your classifier given data with known class labels.
-     - You will be able to use your classifer to get the probability of each possible class.
-     - You will be able to compute cross validated predictions, accuracy, and probabilities.
-     - You will be able to generate a confusion matrix for your classifier.
-     - You will be able to generate a ROC curve for your classifier.
-     - You will gain a conceptual understanding for classification with a support vector machine.
-     - You will be able to use a SVM classifier to separate data with linear boundaries.
-     - You will appreciated at the conceptual level that SVM can achieve complex nonlinear boundaries by projecting the data into higher dimensions.
-     - You will be able to use a SVM classifier to separate data with nonlinear boundaries.
+      - You will understand that classification invovles modeling the categorical grouping of data.
+      - You will be able to use a logistic regression binary classifier.
+      - You will be able to use your classifer to predict the class to which data belongs.
+      - You will be able to compute the accuracy of your classifier given data with known class labels.
+      - You will be able to use your classifer to get the probability of each possible class.
+      - You will be able to compute cross validated predictions, accuracy, and probabilities.
+      - You will be able to generate a confusion matrix for your classifier.
+      - You will be able to generate a ROC curve for your classifier.
+      - You will gain a conceptual understanding for classification with a support vector machine.
+      - You will be able to use a SVM classifier to separate data with linear boundaries.
+      - You will appreciated at the conceptual level that SVM can achieve complex nonlinear boundaries by projecting the data into higher dimensions.
+      - You will be able to use a SVM classifier to separate data with nonlinear boundaries.
 
    </details>
 
@@ -212,11 +212,11 @@ Ensemble model
 ---
 16. <details><summary>Mar 07 R - Random forest classifier and extreme gradient boosting (XGBoost)</summary>
 
-     - You will gain a conceptual understanding of a decision tree.
-     - You will gain a conceptual understanding of a random forest ensemble of decision trees.
-     - You will be able to use a random forest classifier.
-     - You will understand the concept of boosting.
-     - You will be able to use a XGBoost classifier.
+      - You will gain a conceptual understanding of a decision tree.
+      - You will gain a conceptual understanding of a random forest ensemble of decision trees.
+      - You will be able to use a random forest classifier.
+      - You will understand the concept of boosting.
+      - You will be able to use a XGBoost classifier.
 
    </details>
 
@@ -229,40 +229,90 @@ Time series (i.e., sequences)
 ---
 17. <details><summary>Mar 19 T - Time series and convolution</summary>
 
-     - You will appreciate that data points in sequences are correlated (unless pure noise) as opposed to independent random variables.
-     - You will be able to compute the autocorrelation of a sequence.
-     - You will be appreciate how undersampling can introduces aliasing artifacts in a sequence.
-     - You will be able to visualize the frequency power spectrum of a 1-D sequence.
-     - You will be able to visualize the frequency spectrrogram of a 1-D sequence.
-     - You will understand why convolution describes a systems output based on its impulse response.
-     - You will be able to convolve two 1-D sequences.
-     - You will appreciate how convolution can be used to filter a sequence.
-     - You will be able to apply lowpass, highpass and bandpass finite impulse response (FIR) filters to a 1-D sequence.
-     - You will be able to properly downsample a 1-D sequence without introducing alisasing artifacts.
-     - You will be able to convolve two 2-D sequences (e.g., images).
-     - You will appreciate that convolution can be used to highlight features in an image.
-     - You will appreciate that the joint probability distribution resulting from adding two random variables is the convolution of their individual probability distributions.
+      - You will appreciate that data points in sequences are correlated (unless pure noise) as opposed to independent random variables.
+      - You will be able to compute the autocorrelation of a sequence.
+      - You will be appreciate how undersampling can introduces aliasing artifacts in a sequence.
+      - You will be able to visualize the frequency power spectrum of a 1-D sequence.
+      - You will be able to visualize the frequency spectrrogram of a 1-D sequence.
+      - You will understand why convolution describes a systems output based on its impulse response.
+      - You will be able to convolve two 1-D sequences.
+      - You will appreciate how convolution can be used to filter a sequence.
+      - You will be able to apply lowpass, highpass and bandpass finite impulse response (FIR) filters to a 1-D sequence.
+      - You will be able to properly downsample a 1-D sequence without introducing alisasing artifacts.
+      - You will be able to convolve two 2-D sequences (e.g., images).
+      - You will appreciate that convolution can be used to highlight features in an image.
+      - You will appreciate that the joint probability distribution resulting from adding two random variables is the convolution of their individual probability distributions.
 
-   </details>
+    </details>
 
 Simulating a neuron
 ---
-18. Mar 21 R - Leaky integrate and fire (LIF) neuron
-19. Mar 26 T - LIF neuron with synaptic input
+18. <details><summary>Mar 21 R - Leaky integrate and fire (LIF) neuron</summary>
+
+      - You will appreciate how a cell membrane can be described by a RC circuit.
+      - You will understand the concept of the LIF neuron model.
+      - You will be able to simulate a LIF neuron.
+      - You will be able to plot spike rasters.
+
+    </details>
+19. <details><summary>Mar 26 T - LIF neuron with synaptic input</summary>
+  
+      - You will be able to simulate stochastic synaptic input to a LIF neuron.
+      - You will appreciate how convulation can be used to integrate synaptic inputs.
+  
+    </details>
 
 Hidden Markov model
 ---
-20. Mar 28 R - Hidden Markov model (HMM) for an ion channel
-21. Apr 02 T - HMM for a DNA sequence
+20. <details><summary>Mar 28 R - Hidden Markov model (HMM) for an ion channel</summary>
+  
+      - You will understand the concept of a hidden Markov model.
+      - You will use an HMM to model current flowing through a single ion channel.
+      - Given an HMM, you will be able to compute the most likely state trajectory for a data sequence.
+      - You will appreciate how an HMM uses the full sequence to inform the model.
+      - You will use the Bayesian information criterion (BIC) to choose the best model out of several possibilities.
+  
+    </details>
+21. <details><summary>Apr 02 T - HMM for a DNA sequence</summary>
+  
+      - You will use an HMM to predict exons and introns in a nucleotide sequence.
+  
+    </details>
 
 Clustering
 ---
-22. Apr 04 R - K-means, gaussian mixture model (GMM), DBSCAN, etc.
+22. <details><summary>Apr 04 R - K-means, gaussian mixture model (GMM), DBSCAN, etc.</summary>
+  
+      - You will appreciate the difference between classification and clustering (i.e., no labels to train on).
+      - You will understand and be able to use several different clustering algorithms to segregate data.
+      - You will appreciate that each clustering algorithm has its own pros and cons.
+      - You will be able to use several different empirical metrics to choose an optimal clustering model (e.g., number of clusters).
+      - You will use the Bayesian information criterion (BIC) to choose the optimal number of clusters for a GMM.
+  
+    </details>
 
 Dimensionality reduction
 ---
-23. Apr 09 T - Principal component analysis (PCA)
-24. Apr 11 R - RNAseq lab with PCA (or UMAP or t-SNE) and clustering
+23. <details><summary>Apr 09 T - Principal component analysis (PCA)</summary>
+  
+      - You will visualize the process of changing your perspective to align with the variance in the data.
+      - You will visualize the effects of projecting the data onto a smaller number of principal components.
+      - You will be able to interpret the principal components as axes in the original data space.
+      - You will be able to quantify the amount of variance explained by any given number of principal components.
+      - You will understand how images can be represented as points in a high dimensional space.
+      - You will be able to apply PCA to images.
+      - You will see how PCA can be used as a filter to remove noise.
+  
+    </details>
+24. <details><summary>Apr 11 R - PCA for EEG and RNAseq data (or UMAP or t-SNE)</summary>
+  
+      - You will apply PCA to EEG time series.
+      - You will be able to cluster time series and visualize the clustering in a low number of PCs.
+      - You will appreciate how clustering of time series could be beneficial for interpreting experimental data.
+      - You will walk thorugh an example of clustering in reduced dimensions for single cell RNAseq data.
+      - You will appreciate the importance of being able to think critically about your data.
+  
+    </details>
 
 Neural network
 ---
