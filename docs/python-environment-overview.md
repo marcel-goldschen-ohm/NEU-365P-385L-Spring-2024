@@ -33,4 +33,4 @@ Why should you almost always use a separate python environment for each project?
 In this course we'll use `conda` to manage our python environments:
 - conda environments (e.g., neu365 as in the [setup instructions](setup-your-python-environment.md))
 
-There are other python environment managers out there such as [venv](https://python.land/virtual-environments/virtualenv), but `conda` can manage more than just python packages (e.g., python itself), and thus is a good all-purpose option.
+There are other python environment managers out there such as [venv](https://python.land/virtual-environments/virtualenv), but `conda` can manage more than just python packages (e.g., python itself), and thus is a good all-purpose option. [Blog on python package/environment tools with nice Venn diagrams.](https://alpopkes.com/posts/python/packaging_tools/)
