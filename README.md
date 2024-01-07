@@ -19,7 +19,7 @@ Programming and Data Analysis for Modern Neuroscience
 - [Python data toolkit](docs/python-data-toolkit.md)
 - [Data visualization](docs/data-visualization.md)
 
-# 🚧 Dealing with uncertainty
+# Dealing with uncertainty
 - [Statistical inference](docs/statistical-inference.md)
 
 # 🚧 Sequences
