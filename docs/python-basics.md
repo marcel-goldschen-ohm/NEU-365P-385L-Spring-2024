@@ -28,9 +28,14 @@ Familiarizing yourself with the concepts listed below is in my opinion sufficien
 25. Class template vs. instance
 26. Class `__init__` method and `self` variable
 27. Class methods and data
+28. Class inheritance
 
 Other more advanced topics:
 - Function `args` and `kwargs`
 - Generators: `yield`
-- Package file hierarchy
-- [poetry](https://python-poetry.org)
+- Making your own python package
+
+Resources:
+- [Interactive python tutorials](https://www.learnpython.org)
+- [A large list of python tutorials](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+- [The python tutorial](https://docs.python.org/3/tutorial/index.html)
