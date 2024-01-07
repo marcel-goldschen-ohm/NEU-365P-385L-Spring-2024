@@ -1,4 +1,12 @@
-# 🚧 Statistical Inference
+# Statistical inference
+Most experiments face some fundamental complications:
+- The measurements include some form of random variation or noise.
+- Only a small sample is measured, from which you want to draw conclusions at large.
+
+These complications make it difficult to conclude anything with absolute certainty. Thus, **being able to quantify how certain you are about your inferred conclusions is a crucial skill.** Familiarizing yourself with the topics below will provide you a solid foundation for dealing with uncertainty when analyzing data.
+
+:bangbang: It is worth pointing out that a huge amount of non-reproducability in the scientific literature likely stems from a general lack of understanding of how to deal with uncertainty.
+
 1. Probability distributions
     - Continuous
     - Discrete
@@ -13,11 +21,11 @@
 6. Sampling distribution
 7. Central limit theorem
 8. Confidence interval
-9. Bootstrap
+9. Bootstrap resampling
 10. Hypothesis testing
+    - Permutation test
     - Logical implications of assuming a null hypothesis to be true
     - p-value (what it is and what it isn't) and rare events
-    - Permutation test
 
 Other resources of interest:
 
