@@ -37,7 +37,7 @@ Programming and Data Analysis for Modern Neuroscience
 ### Model optimization
 - Gradient descent
 - Global vs local optimization
-### Model selection and confidence
+### Model selection and generalization
 - Cross validation
 - Bayesian information criterion (BIC)
 - Silhouette score
