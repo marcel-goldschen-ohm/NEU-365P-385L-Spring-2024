@@ -79,7 +79,7 @@ Working with data
 
    </details>
 
-Probability and random variables
+Probability and random variation
 ---
 6. <details><summary>Feb 01 R - Probability distributions</summary>
   
