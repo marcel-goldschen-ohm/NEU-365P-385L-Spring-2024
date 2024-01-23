@@ -36,6 +36,7 @@ Other more advanced topics:
 - Making your own python package
 
 Resources:
+- [Nice introductory exercises](https://codingbat.com/python)
 - [Interactive python tutorials](https://www.learnpython.org)
 - [A large list of python tutorials](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 - [The python tutorial](https://docs.python.org/3/tutorial/index.html)
