@@ -46,7 +46,7 @@ Python intro
 
 Working with data
 ---
-4. <details><summary>Jan 25 R - Numpy N-dimensional arrays and basic plots</summary>
+4. <details><summary>Jan 25 R - N-dimensional arrays and basic plots</summary>
   
      - You will appreciate that many types of data can be represented as N-dimensional arrays.
      - You will understand how to work with `numpy` N-dimensional arrays:
@@ -61,7 +61,7 @@ Working with data
      - You will be able to visualize data with simple plots using `matplotlib`.
 
    </details>
-5. <details><summary>Jan 30 T - Pandas tables and basic plots</summary>
+5. <details><summary>Jan 30 T - Tablular data and basic plots</summary>
   
      - You will be able to to work with tabular data sets using `pandas`:
        - Convert between `pandas` dataframes and `numpy` arrays.
