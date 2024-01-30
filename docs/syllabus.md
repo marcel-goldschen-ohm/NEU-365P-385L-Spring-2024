@@ -5,8 +5,8 @@ NEU 365P/385P - Spring 2024 - Programming and Data Analysis for Modern Neuroscie
 
 Python intro
 ---
-1. <details><summary>Jan 16 T - Course intro and python intro</summary>
-  
+1. <details><summary>Jan 16 T - <a href="../python-intro">Course intro and python intro</a></summary>
+     
      - You will get a brief overview of the course.
      - You will be able to use `conda` to manage python environments.
      - You will be able to use `conda` and `pip` to manage python packages within each environment.
@@ -20,7 +20,7 @@ Python intro
        - String formatting
 
    </details>
-2. <details><summary>Jan 18 R - Python basics</summary>
+1. <details><summary>Jan 18 R - <a href="../python-intro">Python basics</a></summary>
   
      - You will understand some basic python code:
        - `if` code blocks
@@ -32,7 +32,7 @@ Python intro
        - Assignment vs mutation
 
    </details>
-3. <details><summary>Jan 23 T - Classes and modules</summary>
+2. <details><summary>Jan 23 T - <a href="../python-intro">Classes and modules</a></summary>
   
      - You will understand how to compartmentalize python code beyond simple functions:
        - `class` code blocks
@@ -46,7 +46,7 @@ Python intro
 
 Working with data
 ---
-4. <details><summary>Jan 25 R - N-dimensional arrays and basic plots</summary>
+4. <details><summary>Jan 25 R - <a href="../data-arrays-and-visualization">N-dimensional arrays and basic plots</a></summary>
   
      - You will appreciate that many types of data can be represented as N-dimensional arrays.
      - You will understand how to work with `numpy` N-dimensional arrays:
@@ -61,7 +61,7 @@ Working with data
      - You will be able to visualize data with simple plots using `matplotlib`.
 
    </details>
-5. <details><summary>Jan 30 T - Tablular data and basic plots</summary>
+5. <details><summary>Jan 30 T - <a href="../data-tables-and-visualization">Tablular data and basic plots</a></summary>
   
      - You will be able to to work with tabular data sets using `pandas`:
        - Convert between `pandas` dataframes and `numpy` arrays.
