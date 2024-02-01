@@ -1,8 +1,6 @@
 # Syllabus
 NEU 365P/385P - Spring 2024 - Programming and Data Analysis for Modern Neuroscience
 
-⚠️ *The syllabus is subject to change as the course progresses depending on my judgement.* This is because I modify my course every year to make it that much better for you. That said, the current syllabus is at least a reasonable approximation of what the final course will look like.
-
 Python intro
 ---
 1. <details><summary>Jan 16 T - <a href="../python-intro">Course intro and python intro</a></summary>
