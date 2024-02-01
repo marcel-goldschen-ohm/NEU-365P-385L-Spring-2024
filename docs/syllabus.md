@@ -81,7 +81,7 @@ Working with data
 
 Probability and random variation
 ---
-6. <details><summary>Feb 01 R - Probability distributions</summary>
+6. <details><summary>Feb 01 R - <a href="../probability-distributions">Probability distributions</a></summary>
   
      - You will understand the difference between a probability and a probability density.
      - You will be able to compute some common descriptive statistics (e.g., mean, variance).
