@@ -95,7 +95,7 @@ Probability and random variation
 
 Resampling
 ---
-7. <details><summary>Feb 06 T - Bootstrap confidence interval and permutation test</summary>
+7. <details><summary>Feb 06 T - <a href="../resampling">Bootstrap confidence interval and permutation test</a></summary>
   
      - You will understand the difference between a population distribution and a sample.
      - You will appreciate that statistics for different samples are likely to vary.
@@ -109,7 +109,7 @@ Resampling
 
 Model optimization
 ---
-8. <details><summary>Feb 08 R - Curve fitting and maximum likelihood estimation (MLE)</summary>
+8. <details><summary>Feb 08 R - <a href="../optimization-and-maximum-likelihood">Curve fitting and maximum likelihood estimation (MLE)</a></summary>
   
      - You will be able to fit a function to data by minimizing the residuals.
      - You will be able to fit an arbitrary probability distribution to data by maximizing the loglikelihood.
