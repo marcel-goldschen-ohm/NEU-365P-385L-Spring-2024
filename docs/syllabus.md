@@ -124,7 +124,7 @@ Review
 
 Linear model
 ---
-10. <details><summary>Feb 15 R - Linear regression</summary>
+10. <details><summary>Feb 15 R - <a href="../linear-regression">Linear regression</a></summary>
   
       - You will be able to fit a line to X vs. Y data.
       - You will be able to fit a (hyper-)plane to {X0, X1, X2, ...} vs. Y data.
