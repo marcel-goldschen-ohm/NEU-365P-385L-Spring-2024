@@ -59,7 +59,7 @@ Working with data
      - You will be able to visualize data with simple plots using `matplotlib`.
 
    </details>
-5. <details><summary>Jan 30 T - <a href="../data-tables-and-visualization">Tablular data and basic plots</a></summary>
+5. <details><summary>Jan 30 T - <a href="../data-tables-and-visualization">Tabular data and basic plots</a></summary>
   
      - You will be able to to work with tabular data sets using `pandas`:
        - Convert between `pandas` dataframes and `numpy` arrays.
