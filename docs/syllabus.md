@@ -142,7 +142,7 @@ Linear model
 
 Nonlinear model
 ---
-11. <details><summary>Feb 20 T - Polynomial and k-nearest neighbors (KNN) regression</summary>
+11. <details><summary>Feb 20 T - <a href="../nonlinear-regression">Polynomial and k-nearest neighbors (KNN) regression</a></summary>
   
       - You will be able to fit a polynomial to {X0, X1, X2, ...} vs. Y data.
       - You will be able to fit nonlinear {X0, X1, X2, ...} vs. Y data with a KNN model.
