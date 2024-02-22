@@ -154,7 +154,7 @@ Nonlinear model
 
 Model selection
 ---
-12. <details><summary>Feb 22 R - Train/Test, bias/variance, and cross validation</summary>
+12. <details><summary>Feb 22 R - <a href="../cross-validation">Train/Test, bias/variance, and cross validation</a></summary>
 
       - You will be able to split your dataset up into training and testing sets.
       - You will understand the difference between training error and testing error.
