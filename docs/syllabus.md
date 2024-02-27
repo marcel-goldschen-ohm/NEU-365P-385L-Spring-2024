@@ -166,7 +166,7 @@ Model selection
 
 Regularization
 ---
-13. <details><summary>Feb 27 T - Ridge and lasso regression</summary>
+13. <details><summary>Feb 27 T - <a href="../regularization">Ridge and lasso regression</a></summary>
 
       - You will appreciate how correlations can influence a linear regression.
       - You will be able to perform ridge and lasso regression.
