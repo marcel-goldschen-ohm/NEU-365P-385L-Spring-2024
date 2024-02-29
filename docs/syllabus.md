@@ -178,7 +178,7 @@ Regularization
 
 Generalized linear model (GLM)
 ---
-14. <details><summary>Feb 29 R - <a href="../generalized-linear-model"Poisson and logistic regression</a></summary>
+14. <details><summary>Feb 29 R - <a href="../generalized-linear-model">Poisson and logistic regression</a></summary>
 
       - You will gain a conceptual understanding for a generalized linear model.
       - You will appreciate why a GLM may be a better choice than a simple linear model for neural spiking data.
