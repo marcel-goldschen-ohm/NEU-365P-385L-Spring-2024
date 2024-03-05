@@ -190,7 +190,7 @@ Generalized linear model (GLM)
 
 Classification
 ---
-15. <details><summary>Mar 05 T - Confusion matrix, ROC curve, support vector machine (SVM)</summary>
+15. <details><summary>Mar 05 T - <a href="../classification">Confusion matrix, ROC curve, support vector machine (SVM)</a></summary>
 
       - You will understand that classification invovles modeling the categorical grouping of data.
       - You will be able to use a logistic regression binary classifier.
