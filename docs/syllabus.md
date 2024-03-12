@@ -209,6 +209,8 @@ Classification
 
 Ensemble model
 ---
+*!!! Skipped in favor of more time on GLMs and Classification*
+
 16. <details><summary>Mar 07 R - Random forest classifier and extreme gradient boosting (XGBoost)</summary>
 
       - You will gain a conceptual understanding of a decision tree.
