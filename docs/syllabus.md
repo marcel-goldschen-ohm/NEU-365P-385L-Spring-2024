@@ -228,7 +228,7 @@ Ensemble model
 
 Time series (i.e., sequences)
 ---
-17. <details><summary>Mar 19 T - Time series and convolution</summary>
+17. <details><summary>Mar 19 T - <a href="../sequences">Time series and convolution</a></summary>
 
       - You will appreciate that data points in sequences are correlated (unless pure noise) as opposed to independent random variables.
       - You will be able to compute the autocorrelation of a sequence.
