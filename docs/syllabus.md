@@ -248,7 +248,7 @@ Time series (i.e., sequences)
 
 Simulating a neuron
 ---
-18. <details><summary>Mar 21 R - Leaky integrate and fire (LIF) neuron</summary>
+18. <details><summary>Mar 21 R - <a href="../LIF-neuron">Leaky integrate and fire (LIF) neuron</a></summary>
 
       - You will appreciate how a cell membrane can be described by a RC circuit.
       - You will understand the concept of the LIF neuron model.
@@ -256,7 +256,7 @@ Simulating a neuron
       - You will be able to plot spike rasters.
 
     </details>
-19. <details><summary>Mar 26 T - LIF neuron with synaptic input</summary>
+19. <details><summary>Mar 26 T - <a href="../LIF-neuron">LIF neuron with synaptic input</a></summary>
   
       - You will be able to simulate stochastic synaptic input to a LIF neuron.
       - You will appreciate how convulation can be used to integrate synaptic inputs.
