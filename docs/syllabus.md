@@ -294,7 +294,7 @@ Clustering
 
 Dimensionality reduction
 ---
-23. <details><summary>Apr 09 T - Principal component analysis (PCA)</summary>
+23. <details><summary>Apr 09 T - <a href="../principal-component-analysis">Principal component analysis (PCA)</a></summary>
   
       - You will visualize the process of changing your perspective to align with the variance in the data.
       - You will visualize the effects of projecting the data onto a smaller number of principal components.
@@ -305,7 +305,7 @@ Dimensionality reduction
       - You will see how PCA can be used as a filter to remove noise.
   
     </details>
-24. <details><summary>Apr 11 R - PCA for EEG and <a href="../RNAseq-lab">RNAseq</a> data (or UMAP or t-SNE)</summary>
+24. <details><summary>Apr 11 R - PCA for <a href="../principal-component-analysis">EEG</a> and <a href="../RNAseq-lab">RNAseq</a> data (or UMAP or t-SNE)</summary>
   
       - You will apply PCA to EEG time series.
       - You will be able to cluster time series and visualize the clustering in a low number of PCs.
