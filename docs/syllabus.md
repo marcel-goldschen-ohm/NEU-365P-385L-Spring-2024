@@ -282,7 +282,7 @@ Hidden Markov model
 
 Clustering
 ---
-22. <details><summary>Apr 04 R - K-means, gaussian mixture model (GMM), DBSCAN, etc.</summary>
+22. <details><summary>Apr 04 R - <a href="../clustering">K-means, gaussian mixture model (GMM), DBSCAN, etc.</a></summary>
   
       - You will appreciate the difference between classification and clustering (i.e., no labels to train on).
       - You will understand and be able to use several different clustering algorithms to segregate data.
