@@ -305,7 +305,7 @@ Dimensionality reduction
       - You will see how PCA can be used as a filter to remove noise.
   
     </details>
-24. <details><summary>Apr 11 R - PCA for EEG and RNAseq data (or UMAP or t-SNE)</summary>
+24. <details><summary>Apr 11 R - PCA for EEG and <a href="../RNAseq-lab">RNAseq</a> data (or UMAP or t-SNE)</summary>
   
       - You will apply PCA to EEG time series.
       - You will be able to cluster time series and visualize the clustering in a low number of PCs.
