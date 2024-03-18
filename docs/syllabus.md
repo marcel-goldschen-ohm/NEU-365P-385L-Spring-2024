@@ -265,7 +265,7 @@ Simulating a neuron
 
 Hidden Markov model
 ---
-20. <details><summary>Mar 28 R - Hidden Markov model (HMM) for an ion channel</summary>
+20. <details><summary>Mar 28 R - <a href="../hidden-markov-model">Hidden Markov model (HMM) for an ion channel</a></summary>
   
       - You will understand the concept of a hidden Markov model.
       - You will use an HMM to model current flowing through a single ion channel.
@@ -274,7 +274,7 @@ Hidden Markov model
       - You will use the Bayesian information criterion (BIC) to choose the best model out of several possibilities.
   
     </details>
-21. <details><summary>Apr 02 T - HMM for a DNA sequence</summary>
+21. <details><summary>Apr 02 T - <a href="../hidden-markov-model">HMM for a DNA sequence</a></summary>
   
       - You will use an HMM to predict exons and introns in a nucleotide sequence.
   
