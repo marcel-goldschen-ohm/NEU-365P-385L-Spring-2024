@@ -317,7 +317,25 @@ Dimensionality reduction
 
 Neural network
 ---
-25. Apr 16 T - Feedforward neural network (FNN)
-26. Apr 18 R - Feedforward neural network (FNN)
-27. Apr 23 T - Recurrent neural network (RNN)
-28. Apr 25 R - Long/Short term memory (LSTM) neural network
+25. <details><summary>Apr 16 T - <a href="../neural-network">Feedforward neural network (FNN)</a></summary>
+
+     - You will understand the basic concept of a neural network as a universal function generator.
+     - You will understand how the input and output layers of a neural network depend on the data and desired computation.
+     - You will understand the concept of how a neural network is trained.
+     - You will be able to implement basic feed-forward neural networks for regression and classification in Python.
+     - You will appreciate that neural networks are not always the best choice.
+
+26. <details><summary>Apr 18 R - Convolutional neural network (CNN)</summary>
+
+     - You will be able to implement neural networks using PyTorch.
+     - You will understand the basic concept of a CNN.
+     - You will apply a CNN to decipher grating orientations based on images of gratings.
+
+27. <details><summary>Apr 23 T - Recurrent neural network (RNN)</summary>
+
+     - You will understand the basic concept of a RNN.
+     - Long/Short term memory (LSTM) neural network
+
+Exam
+---
+28. Apr 25 R - Exam
