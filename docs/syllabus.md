@@ -327,11 +327,13 @@ Neural network
 
 26. <details><summary>Apr 18 R - Convolutional neural network (CNN)</summary>
 
-     - You will...
+     - You will be able to implement neural networks using PyTorch.
+     - You will understand the basic concept of a CNN.
+     - You will apply a CNN to decipher grating orientations based on images of gratings.
 
 27. <details><summary>Apr 23 T - Recurrent neural network (RNN)</summary>
 
-     - You will...
+     - You will understand the basic concept of a RNN.
      - Long/Short term memory (LSTM) neural network
 
 Exam
