@@ -1,4 +1,4 @@
-# 🚧 Models explored in this course
+# Models explored in this course
 - Probability distribution
   - Normal, Exponential, Poisson, Binomial
   - Gaussian mixture model (GMM)
